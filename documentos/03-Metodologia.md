@@ -12,16 +12,10 @@ A metodologia ágil escolhida para o desenvolvimento deste projeto foi o SCRUM, 
 ### Divisão de Papéis
 
 A equipe utiliza o Scrum como base para definição do processo de desenvolvimento.
-[Adicione informações abaixo sobre a divisão de papéis entre os membros da equipe.]
-- Scrum Master: [Mariana] Nome de um membro da equipe, principal responsável pela gestão do projeto.
-- Product Owner: [Riniel] Nome de um membro da equipe, representante dos interesses de todos os envolvidos (Stakeholders), define as funcionalidades do produto e prioriza os itens de Product Backlog.
-- Equipe de Desenvolvimento: [...] Nomes de todos os membros da equipe, pois todos os membros deverão implementar uma tela/funcionalidade.
-- Equipe de Design: [Nicholas] Nomes dos membros da equipe que trabalharão com design.
-
-> **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu 
-> Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
+- Scrum Master: Mariana, principal responsável pela gestão do projeto.
+- Product Owner: Riniel, representante dos interesses de todos os envolvidos (Stakeholders), define as funcionalidades do produto e prioriza os itens de Product Backlog.
+- Equipe de Desenvolvimento: Guilherme, João Victor, Mariana, Nicholas, Riniel e Rogério, são responsáveis por implementar as telas e funcionalidades.
+- Equipe de Design: Nicholas e João Victor, dentre os integrantes da equipe de desenvolvimento, serão os principais responsáveis pelo design.
 
 ### Processo
 
