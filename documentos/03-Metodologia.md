@@ -51,7 +51,23 @@ A equipe utiliza o Scrum como base para definição do processo de desenvolvimen
   
 ### Ferramentas
 
-[Descreva aqui as ferramentas empregadas no projeto e os ambiente de trabalho utilizados pela  equipe para desenvolvê-lo. Abrange a relação de ambientes utilizados, a estrutura para gestão do código fonte, além da definição do processo e ferramenta através dos quais a equipe se organiza (Gestão de Times).]
+Para o desenvolvimento do projeto, utilizamos um conjunto de ferramentas cuidadosamente selecionados para otimizar a colaboração e o gerenciamento de tarefas. A equipe empregou as seguintes:
+
+Repositório de Código Fonte - GitHub:
+O GitHub foi crucial no nosso processo de desenvolvimento. Ele nos proporcionou um ambiente robusto para versionamento de código, facilitando a colaboração e rastreabilidade das alterações.
+
+Documentos do Projeto - GitHub:
+Além do código fonte, o GitHub foi usado para armazenar e gerenciar documentos para o projeto. Isso inclui documentação técnica, testes, especificações  e outras informações vitais.
+
+Projeto de Interface - Figma:
+Usamos o Figma como a ferramenta principal para criação e colaboração na interface do projeto. Sua capacidade de design colaborativo em tempo real facilitou a prototipagem e a definição de estilos do projeto.
+
+Gerenciamento do Projeto - Trello:
+Adotamos o Trello para garantir a organização e o acompanhamento das tarefas. Esta plataforma ágil permitiu que a equipe criasse e gerenciasse quadros de projeto personalizados, adaptados às necessidades específicas do nosso trabalho.
+
+Hospedagem - GitHub Pages:
+Optamos por hospedar o projeto no GitHub Pages, aproveitando a simplicidade e confiabilidade dessa plataforma para disponibilizar nossa aplicação de forma acessível e estável na web.
+
 
 Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a relação dos ambientes com seu respectivo propósito é apresentada na tabela que se segue.
 
