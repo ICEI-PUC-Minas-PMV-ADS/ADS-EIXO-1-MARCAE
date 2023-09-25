@@ -53,7 +53,7 @@ A equipe utiliza o Scrum como base para definição do processo de desenvolvimen
 
 Para o desenvolvimento do projeto, utilizamos um conjunto de ferramentas cuidadosamente selecionados para otimizar a colaboração e o gerenciamento de tarefas. Nossa equipe empregou as seguintes:
 
-Repositório de Código Fonte - GitHub:
+- Repositório de Código Fonte - GitHub:
 O GitHub foi crucial no nosso processo de desenvolvimento. Ele nos proporcionou um ambiente robusto para versionamento de código, facilitando a colaboração e rastreabilidade das alterações.
 
 - Documentos do Projeto - GitHub:
