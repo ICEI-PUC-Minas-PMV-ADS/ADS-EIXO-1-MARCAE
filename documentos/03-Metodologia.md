@@ -54,19 +54,19 @@ A equipe utiliza o Scrum como base para definição do processo de desenvolvimen
 Para o desenvolvimento do projeto, utilizamos um conjunto de ferramentas cuidadosamente selecionados para otimizar a colaboração e o gerenciamento de tarefas. Nossa equipe empregou as seguintes:
 
 - Repositório de Código Fonte - GitHub:
-O GitHub foi crucial no nosso processo de desenvolvimento. Ele nos proporcionou um ambiente robusto para versionamento de código, facilitando a colaboração e rastreabilidade das alterações.
+O GitHub desempenhou um papel fundamental em nosso processo de desenvolvimento. Ele nos forneceu um ambiente sólido para controle de versão do código, facilitando a colaboração e o rastreamento das alterações.
 
 - Documentos do Projeto - GitHub:
-Além do código fonte, o GitHub foi usado para armazenar e gerenciar documentos para o projeto. Isso inclui documentação técnica, testes, especificações  e outras informações vitais.
+Além do código fonte, utilizamos o GitHub para armazenar e gerenciar documentos relacionados ao projeto. Isso inclui documentação técnica, testes, especificações e outras informações importantes.
 
 - Projeto de Interface - Figma:
-Usamos o Figma como a ferramenta principal para criação e colaboração na interface do projeto. Sua capacidade de design colaborativo em tempo real facilitou a prototipagem e a definição de estilos do projeto.
+Utilizamos o Figma como nossa principal ferramenta para criação e colaboração na interface do projeto. Sua capacidade de design colaborativo em tempo real facilitou a criação de protótipos e a definição dos estilos do projeto.
 
 - Gerenciamento do Projeto - Trello:
-Adotamos o Trello para garantir a organização e o acompanhamento das tarefas. Esta plataforma ágil permitiu que a equipe criasse e gerenciasse quadros de projeto personalizados, adaptados às necessidades específicas do nosso trabalho.
+Adotamos o Trello para garantir a organização e o acompanhamento das tarefas. Essa plataforma ágil permitiu que a equipe criasse e gerenciasse quadros de projeto personalizados, adaptados às necessidades específicas do nosso trabalho.
 
 - Hospedagem - GitHub Pages:
-Optamos por hospedar o projeto no GitHub Pages, aproveitando a simplicidade e confiabilidade dessa plataforma para disponibilizar nossa aplicação de forma acessível e estável na web.
+Decidimos hospedar nosso projeto no GitHub Pages, aproveitando a simplicidade e confiabilidade dessa plataforma para disponibilizar nossa aplicação na web de maneira acessível e estável.
 
 
 Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a relação dos ambientes com seu respectivo propósito é apresentada na tabela que se segue.
