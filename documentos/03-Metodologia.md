@@ -1,9 +1,6 @@
 
 # Metodologia
 
-Esta seção descreve a organização da equipe para a execução das tarefas do projeto e as ferramentas utilizadas para a manutenção dos códigos e demais artefatos.
-
-
 ## Gerenciamento de Projeto
 A metodologia ágil escolhida para o desenvolvimento deste projeto foi o SCRUM, pois como citam Amaral, Fleury e Isoni (2019, p. 68), seus benefícios são a
 
@@ -12,10 +9,10 @@ A metodologia ágil escolhida para o desenvolvimento deste projeto foi o SCRUM, 
 ### Divisão de Papéis
 
 A equipe utiliza o Scrum como base para definição do processo de desenvolvimento.
-- Scrum Master: Mariana, principal responsável pela gestão do projeto.
-- Product Owner: Riniel, representante dos interesses de todos os envolvidos (Stakeholders), define as funcionalidades do produto e prioriza os itens de Product Backlog.
-- Equipe de Desenvolvimento: Guilherme, João Victor, Mariana, Nicholas, Riniel e Rogério, são responsáveis por implementar as telas e funcionalidades.
-- Equipe de Design: Nicholas e João Victor, dentre os integrantes da equipe de desenvolvimento, serão os principais responsáveis pelo design.
+- Scrum Master: Mariana.
+- Product Owner: Riniel.
+- Equipe de Desenvolvimento: Guilherme, João Victor, Mariana, Nicholas, Riniel e Rogério.
+- Equipe de Design: Nicholas e João Victor.
 
 ### Processo
 
