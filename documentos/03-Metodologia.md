@@ -30,20 +30,20 @@ Dessa forma, a equipe foi definida da seguinte maneira:
 
 
 ### Etiquetas
-<p>As tarefas são, ainda, etiquetadas em função da natureza da atividade e seguem o seguinte esquema de cores/categorias:</p>
+<p>Visando agilidade no andamento do projeto, todas as tarefas são etiquetadas no Trello em função da natureza da atividade e seguem o seguinte esquema de cores/categorias:</p>
 
 <ul>
-  <li>Bug (Erro no código)</li>
-  <li>Desenvolvimento (Development)</li>
-  <li>Documentação (Documentation)</li>
-  <li>Gerência de Projetos (Project Management)</li>
-  <li>Infraestrutura (Infrastructure)</li>
-  <li>Testes (Tests)</li>
+  <li>A Fazer (Tarefas não iniciadas)</li>
+  <li>Em andamento (Tarefas em desenvolvimento)</li>
+  <li>Concluído (Tarefas finalizadas e entregues por etapa do projeto)</li>
+  <li>Links e Informações Úteis (Informações compartilhadas por toda a equipe)</li>|
 </ul>
 
 <figure> 
-  <img src="https://user-images.githubusercontent.com/100447878/164068979-9eed46e1-9b44-461e-ab88-c2388e6767a1.png"
-    <figcaption>Figura 3 - Tela do esquema de cores e categorias</figcaption>
+  <img src="c:\Users\roger\OneDrive\Imagens\Capturas de tela\Captura de Tela (1).png"
+
+
+    <figcaption>Figura 1 - Tela do esquema de cores e categorias</figcaption>
 </figure> 
   
 ### Ferramentas
