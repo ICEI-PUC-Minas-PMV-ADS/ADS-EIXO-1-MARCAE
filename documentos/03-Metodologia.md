@@ -24,11 +24,12 @@ Para organização e distribuição das tarefas do projeto, a equipe está utili
 
 O quadro kanban do grupo no GitHub está disponível no link: https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/687/views/1  e é apresentado, no estado atual, na figura abaixo:
 
+![2](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t4-group_3/assets/144181666/f6add9f9-6840-4d97-87f1-f890089b537f)
+
 
 ### Etiquetas
 <p>As tarefas são, ainda, etiquetadas em função da natureza da atividade e seguem o seguinte esquema de cores/categorias:</p>
 
-<ul>
   <li>Bug (Erro no código)</li>
   <li>Desenvolvimento (Development)</li>
   <li>Documentação (Documentation)</li>
