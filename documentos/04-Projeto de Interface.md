@@ -3,18 +3,14 @@
 
 ## User Flow
 
-O diagrama exibido na Figura 1 mostra o fluxo principal onde ilustra a sequência de interações do usuário ao longo das etapas do sistema. Cada uma das fases desse processo será detalhada na seção subsequente, intitulada "Protótipo de Média Fidelidade". Para visualizar o protótipo, acesse o <a href="https://www.figma.com/file/q9EqSVGC7zONyYejZ9xUqa/Site-do-Projeto-Eixo-1---PUC-Minas?type=design&node-id=0%3A1&mode=design&t=6IYslppfxkUeoECs-1">ambiente Figma do projeto</a>
+O diagrama exibido na Figura 1 mostra o fluxo principal onde ilustra a sequência de interações do usuário ao longo das etapas do sistema. Cada uma das fases desse processo será detalhada na seção subsequente, intitulada "Protótipo de Média Fidelidade". Para visualizar o protótipo, acesse o <a href="https://www.figma.com/file/q9EqSVGC7zONyYejZ9xUqa/Site-do-Projeto-Eixo-1---PUC-Minas?type=design&node-id=0%3A1&mode=design&t=6IYslppfxkUeoECs-1">ambiente Figma do projeto</a>.
 
-![Texto alternativo](img/userflow.png)
+![Fluxo de usuário marcaê](img/userflow.png)
+
 <figure>
-    <img src=""
     <figcaption>Figura 1 - User Flow
 </figure> 
 
-> **Links Úteis**:
-> - [User Flow: O Quê É e Como Fazer?](https://medium.com/7bits/fluxo-de-usu%C3%A1rio-user-flow-o-que-%C3%A9-como-fazer-79d965872534)
-> - [User Flow vs Site Maps](http://designr.com.br/sitemap-e-user-flow-quais-as-diferencas-e-quando-usar-cada-um/)
-> - [Top 25 User Flow Tools & Templates for Smooth](https://www.mockplus.com/blog/post/user-flow-tools)
 
 ## Protótipo
 
