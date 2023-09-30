@@ -16,7 +16,7 @@ O diagrama exibido na Figura 1 mostra o fluxo principal onde ilustra a sequênci
 <h3><b>Tela - Home page</b></h3>
 <p>A tela da página inicial apresenta muitas informações, tais como os eventos em destaque, os eventos mais procurados, o atalho para filtrar o evento de seu gosto, ou até mesmo a cidade, login, cadastre-se, torne-se um produtor para promoção de eventos, a interação do público com o produtor e o feedback do público após o evento. </p>
   
-![homepage](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t4-group_3/blob/0a84dd57a74d4f3d46ab6f95508edbc4296b35c9/documentos/img/Tela%20inicial%201.png)
+![homepage](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t4-group_3/blob/main/documentos/img/Tela%20inicial%201.png)
 ![homepage](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t4-group_3/blob/0a84dd57a74d4f3d46ab6f95508edbc4296b35c9/documentos/img/Tela%20inicial%202.png)
 ![homepage](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t4-group_3/blob/0a84dd57a74d4f3d46ab6f95508edbc4296b35c9/documentos/img/Tela%20inicial%203.png)
 
