@@ -28,20 +28,19 @@ O quadro kanban do grupo no GitHub está disponível no link: https://github.com
 
 
 ### Etiquetas
-<p>As tarefas são, ainda, etiquetadas em função da natureza da atividade e seguem o seguinte esquema de cores/categorias:</p>
-
-  <li>Bug (Erro no código)</li>
-  <li>Desenvolvimento (Development)</li>
-  <li>Documentação (Documentation)</li>
-  <li>Gerência de Projetos (Project Management)</li>
-  <li>Infraestrutura (Infrastructure)</li>
-  <li>Testes (Tests)</li>
+<p>Para o gerenciamento e melhor visualização no andamento do projeto, todas as tarefas são etiquetadas no Trello em função da natureza da atividade e seguem o seguinte esquema de cores/categorias:</p>
+<ul>
+  <li>A Fazer (Tarefas não iniciadas)</li>
+  <li>Em andamento (Tarefas em desenvolvimento)</li>
+  <li>Concluído (Tarefas finalizadas e entregues por etapa do projeto)</li>
+  <li>Links e Informações Úteis (Informações compartilhadas por toda a equipe)</li>|
 </ul>
 
 <figure> 
-  <img src="https://user-images.githubusercontent.com/100447878/164068979-9eed46e1-9b44-461e-ab88-c2388e6767a1.png"
-    <figcaption>Figura 3 - Tela do esquema de cores e categorias</figcaption>
-</figure> 
+  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t4-group_3/assets/145169176/ed486122-c23e-44a6-8046-b26cbb40dc59"
+
+    Figura 1 - Tela do esquema de cores e categorias
+</figure>
   
 ### Ferramentas
 
