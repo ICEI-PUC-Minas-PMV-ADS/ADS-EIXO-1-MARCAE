@@ -31,10 +31,11 @@ O quadro kanban do grupo no GitHub está disponível no link: https://github.com
 ### Etiquetas
 <p>Para o gerenciamento e melhor visualização no andamento do projeto, todas as tarefas são etiquetadas no Trello em função da natureza da atividade e seguem o seguinte esquema de cores/categorias:</p>
 <ul>
-  <li>A Fazer (Tarefas não iniciadas)</li>
-  <li>Em andamento (Tarefas em desenvolvimento)</li>
-  <li>Concluído (Tarefas finalizadas e entregues por etapa do projeto)</li>
-  <li>Links e Informações Úteis (Informações compartilhadas por toda a equipe)</li>|
+  <li><img src="https://user-images.githubusercontent.com/146504095/271789008-a640641d-288f-4310-bc1e-5dd9841ca41b.png"<li>A Fazer (Tarefas não iniciadas)</li>
+  <li><img src="https://user-images.githubusercontent.com/146504095/271789131-44946ae8-d5d2-445b-ad76-65b37e3b09e2.png"<li>Em andamento (Tarefas em desenvolvimento)</li>
+  <li><img src="https://user-images.githubusercontent.com/146504095/271789170-fe9e6bbb-c71a-44e3-82ed-b63e9a6b2dea.png"<li>Concluído (Tarefas finalizadas e entregues por etapa do projeto)</li>
+  <li><img src="https://user-images.githubusercontent.com/146504095/271789694-a42ec391-ec34-4af5-a745-a0c5389471e9.png"<li>Links e Informações Úteis (Informações compartilhadas por toda a equipe)</li>
+  <li><img src="https://user-images.githubusercontent.com/146504095/271789841-06a46cc8-045b-45c7-b1e3-0d18bfe7e808.png"<li>Inspiração (Material de pesquisa)</li>
 </ul>
 
 <figure> 
