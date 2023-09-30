@@ -23,6 +23,26 @@ O diagrama exibido na Figura 1 mostra o fluxo principal onde ilustra a sequênci
 </figure> 
 <hr>
 
+<h3><b>Tela - Login</b></h3>
+<p>A tela de login permite entrar com sua conta criada diretamente no site ou entrar com suas redes sociais.</p>
+  
+![login](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t4-group_3/blob/0a84dd57a74d4f3d46ab6f95508edbc4296b35c9/documentos/img/Login.png)
+
+<figure> 
+  <figcaption> Figura 4 - Tela de Login
+</figure> 
+<hr>
+
+<h3><b>Tela - Registre-se</b></h3>
+<p>A tela de registre-se permite você criar sua conta a partir de suas informações pessoais e e-mail, ou criar com suas redes sociais.</p>
+  
+![login](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t4-group_3/blob/0a84dd57a74d4f3d46ab6f95508edbc4296b35c9/documentos/img/Registre-se.png)
+
+<figure> 
+  <figcaption> Figura 5 - Tela de Registre-se
+</figure> 
+<hr>
+
 ## Protótipo de média fidelidade
 
 
