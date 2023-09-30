@@ -3,9 +3,12 @@
 
 ## User Flow
 
-Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapear todo fluxo de navegação do usuário na aplicação. Essa técnica funciona para alinhar os caminhos e as possíveis ações que o usuário pode fazer junto com os membros de sua equipe.
+O diagrama exibido na Figura 1 mostra o fluxo principal onde ilustra a sequência de interações do usuário ao longo das etapas do sistema. Cada uma das fases desse processo será detalhada na seção subsequente, intitulada "Protótipo de Média Fidelidade". Para visualizar o protótipo, acesse o <a href="https://www.figma.com/file/q9EqSVGC7zONyYejZ9xUqa/Site-do-Projeto-Eixo-1---PUC-Minas?type=design&node-id=0%3A1&mode=design&t=6IYslppfxkUeoECs-1">ambiente MarvelApp do projeto</a>
 
-[Adicione aqui o diagrama de fluxo de usuário da sua aplicação.] 
+<figure>
+    <img src="https://user-images.githubusercontent.com/documentos/img/Fluxo de usuário Marcaê (1).png"
+    <figcaption>Figura 1 - User Flow
+</figure> 
 
 > **Links Úteis**:
 > - [User Flow: O Quê É e Como Fazer?](https://medium.com/7bits/fluxo-de-usu%C3%A1rio-user-flow-o-que-%C3%A9-como-fazer-79d965872534)
