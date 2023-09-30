@@ -9,7 +9,9 @@ O diagrama exibido na Figura 1 mostra o fluxo principal onde ilustra a sequênci
 
 <figure>
     <figcaption>Figura 1 - Fluxo principal de usuário
-</figure> 
+</figure>
+
+## Protótipo de média fidelidade
 
 <h3><b>Tela - Home page</b></h3>
 <p>A tela da página inicial apresenta muitas informações, tais como os eventos em destaque, os eventos mais procurados, o atalho para filtrar o evento de seu gosto, ou até mesmo a cidade, login, cadastre-se, torne-se um produtor para promoção de eventos, a interação do público com o produtor e o feedback do público após o evento. </p>
@@ -42,8 +44,6 @@ O diagrama exibido na Figura 1 mostra o fluxo principal onde ilustra a sequênci
   <figcaption> Figura 5 - Tela de Registre-se
 </figure> 
 <hr>
-
-## Protótipo de média fidelidade
 
 
 
