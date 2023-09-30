@@ -5,10 +5,9 @@
 
 O diagrama exibido na Figura 1 mostra o fluxo principal onde ilustra a sequência de interações do usuário ao longo das etapas do sistema. Cada uma das fases desse processo será detalhada na seção subsequente, intitulada "Protótipo de Média Fidelidade". Para visualizar o protótipo, acesse o <a href="https://www.figma.com/file/q9EqSVGC7zONyYejZ9xUqa/Site-do-Projeto-Eixo-1---PUC-Minas?type=design&node-id=0%3A1&mode=design&t=6IYslppfxkUeoECs-1">ambiente Figma do projeto</a>
 
-https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t4-group_3/main/documentos/img/Fluxo%20de%20usu%C3%A1rio%20Marca%C3%AA%20(1).png
 
 <figure>
-    <img src="https://user-images.githubusercontent.com/Fluxo de usuário Marcaê (1).png"
+    <img src=""
     <figcaption>Figura 1 - User Flow
 </figure> 
 
