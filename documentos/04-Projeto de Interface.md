@@ -8,7 +8,7 @@ O diagrama exibido na Figura 1 mostra o fluxo principal onde ilustra a sequênci
 ![Fluxo de usuário marcaê](img/userflow.png)
 
 <figure>
-    <figcaption>Figura 1 - User Flow
+    <figcaption>Figura 1 - Fluxo principal de usuário
 </figure> 
 
 
