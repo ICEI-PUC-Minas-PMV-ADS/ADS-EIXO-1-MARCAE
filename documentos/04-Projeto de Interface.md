@@ -26,7 +26,7 @@ O diagrama exibido na Figura 1 mostra o fluxo principal onde ilustra a sequênci
 <hr>
 
 <h3><b>Tela - Login</b></h3>
-<p>A tela de login permite entrar com sua conta criada diretamente no site ou entrar com suas redes sociais.</p>
+<p>A tela de login permite entrar com sua conta criada diretamente no site, preenchendo e-mail e senha, ou dando a opção de entrar usando suas redes sociais, sendo ela Google ou Facebook.</p>
   
 ![login](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t4-group_3/blob/0a84dd57a74d4f3d46ab6f95508edbc4296b35c9/documentos/img/Login.png)
 
@@ -36,7 +36,7 @@ O diagrama exibido na Figura 1 mostra o fluxo principal onde ilustra a sequênci
 <hr>
 
 <h3><b>Tela - Registre-se</b></h3>
-<p>A tela de registre-se permite você criar sua conta a partir de suas informações pessoais e e-mail, ou criar com suas redes sociais.</p>
+<p>A tela de registre-se permite você criar sua conta a partir de suas informações, como: seu primeiro nome, segundo nome, e-mail e sua senha, ou dando opção de criar sua conta com suas redes sociais, sendo ela Google ou Facebook.</p>
   
 ![login](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t4-group_3/blob/0a84dd57a74d4f3d46ab6f95508edbc4296b35c9/documentos/img/Registre-se.png)
 
