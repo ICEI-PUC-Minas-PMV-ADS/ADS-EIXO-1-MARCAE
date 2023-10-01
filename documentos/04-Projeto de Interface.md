@@ -114,6 +114,6 @@ Logo abaixo, é disponibilizada uma seleção de tipos de ingressos, cada um com
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t4-group_3/assets/32981763/7cd9930b-b34d-4fb0-ae03-595dfdae2b7d)
 
 <h4><b>Evento Virtual</b></h4>
-<p>Após clicar no botão "Evento Virtual", uma nova página será carregada para cadastro do evento.</p>
+<p>Após clicar no botão "Evento Virtual", uma nova página será carregada para cadastro do evento virtual.</p>
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t4-group_3/assets/32981763/ce8f2c8a-fff8-4168-b67a-98d2b436ed30)
