@@ -76,9 +76,9 @@ Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a 
 | Documentos do projeto               | GitHub                             |https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t4-group_3/tree/692d8d99f91e2696186252d4dc6c3d71b0a8cef9/documentos|
 | Projeto de Interface                | Figma                              |https://www.figma.com/file/q9EqSVGC7zONyYejZ9xUqa/Site-do-Projeto-Eixo-1---PUC-Minas?type=design&node-id=0%3A1&mode=design&t=6IYslppfxkUeoECs-1|
 | Gerenciamento do Projeto            | GitHub                             |https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/687/views/1|
-| Hospedagem                          | A definir                          | A definir|
+| Hospedagem                          | A definir                          | A definir |
 
 
 ### Estratégia de Organização de Codificação 
 
-Todos os artefatos relacionados a implementação e visualização dos conteúdos do projeto do site deverão ser inseridos na pasta [codigo-fonte](http://https://github.com/ICEI-PUC-Minas-PMV-ADS/WebApplicationProject-Template-v2/tree/main/codigo-fonte). Consulte também a nossa sugestão referente a estratégia de organização de codificação a ser adotada pela equipe de desenvolvimento do projeto.
+Todos os artefatos relacionados a implementação e visualização dos conteúdos do projeto da aplicação foram inseridos na pasta [codigo-fonte](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t4-group_3/tree/17182c9fc32b1abe4645f58a7359bafcdc25f44f/codigo-fonte/MarcaePages). 
