@@ -49,8 +49,8 @@ O diagrama exibido na Figura 1 mostra o fluxo principal onde ilustra a sequênci
 <h3><b>Tela - Visualização de eventos</b></h3>
 <p>A tela de visualização de evento oferece aos usuários uma visão das informações essenciais sobre um evento. No topo da tela, destaca-se o título do evento, seguido de uma breve descrição que fornece uma prévia do que os participantes podem esperar. Logo abaixo, estão listados alguns detalhes, como data, horário e local, garantindo que os usuários tenham acesso rápido a essas e outras informações cruciais.</p>
 
-![Fluxo de usuário marcaê](img/visualizarEvento1.png)
-![Fluxo de usuário marcaê](img/visualizarEvento2.png)
+![Fluxo de usuário marcaê](img/visualizaringresso.png)
+
 
 <figure> 
   <figcaption> Figura 6 - Tela de visualização de evento
