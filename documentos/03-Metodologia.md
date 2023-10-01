@@ -31,7 +31,7 @@ O quadro kanban do grupo no GitHub está disponível no link: https://github.com
 ### Etiquetas
 <p>Para o gerenciamento e melhor visualização no andamento do projeto, todas as tarefas são etiquetadas no Trello em função da natureza da atividade e seguem o seguinte esquema de cores e categorias:</p>
 <ul>
-  <li>Doc de Idéias (Idéias para o desenvolvimento do projeto)</li>
+  <li>Doc de Ideias (Ideias para o desenvolvimento do projeto)</li>
   <li>Concluído-Etapa 01 (Tarefas finalizadas e entregues por etapa do projeto)</li>
   <li>Inspiração (Material de pesquisa)</li>
   <li>Em andamento (Tarefas em desenvolvimento)</li>
@@ -76,9 +76,8 @@ Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a 
 | Documentos do projeto               | GitHub                             |https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t4-group_3/tree/692d8d99f91e2696186252d4dc6c3d71b0a8cef9/documentos|
 | Projeto de Interface                | Figma                              |https://www.figma.com/file/q9EqSVGC7zONyYejZ9xUqa/Site-do-Projeto-Eixo-1---PUC-Minas?type=design&node-id=0%3A1&mode=design&t=6IYslppfxkUeoECs-1|
 | Gerenciamento do Projeto            | GitHub                             |https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/687/views/1|
-| Hospedagem                          | A definir                          | A definir |
 
 
 ### Estratégia de Organização de Codificação 
 
-Todos os artefatos relacionados a implementação e visualização dos conteúdos do projeto da aplicação foram inseridos na pasta [codigo-fonte](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t4-group_3/tree/17182c9fc32b1abe4645f58a7359bafcdc25f44f/codigo-fonte/MarcaePages). 
+Todos os artefatos relacionados a implementação e visualização dos conteúdos do projeto da aplicação foram inseridos na pasta [codigo-fonte](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t4-group_3/tree/ab6c80c020f6898ebbd3cc3d0c4e9b5af9010a0f/codigo-fonte). 
