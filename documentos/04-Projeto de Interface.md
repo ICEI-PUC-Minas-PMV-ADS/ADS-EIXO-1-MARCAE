@@ -106,9 +106,14 @@ Logo abaixo, é disponibilizada uma seleção de tipos de ingressos, cada um com
 <h3><b>Pop-up para criação de Evento Presencial ou Virtual</b></h3>
 <p>A tela será apresentada ao usuário, após clicar no botão "Seja um produtor", presente no cabeçalho das páginas home e informações dos eventos.</p>
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t4-group_3/assets/32981763/1384556d-f8e2-428a-b39c-8366f34c13d9)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t4-group_3/assets/32981763/636dc1b8-42a4-414b-b1d6-55d0a833171e)
 
 <h4><b>Evento Presencial</b></h4>
+<p>Após clicar no botão "Evento Presencial", uma nova página será carregada para cadastro do evento.</p>
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t4-group_3/assets/32981763/7cd9930b-b34d-4fb0-ae03-595dfdae2b7d)
 
 <h4><b>Evento Virtual</b></h4>
+<p>Após clicar no botão "Evento Virtual", uma nova página será carregada para cadastro do evento.</p>
 
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t4-group_3/assets/32981763/ce8f2c8a-fff8-4168-b67a-98d2b436ed30)
