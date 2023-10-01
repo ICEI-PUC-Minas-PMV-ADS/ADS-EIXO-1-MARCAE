@@ -36,8 +36,8 @@ O quadro kanban do grupo no GitHub está disponível no link: https://github.com
   <li>Inspiração (Material de pesquisa)</li>
   <li>Em andamento (Tarefas em desenvolvimento)</li>
   <li>A Fazer (Tarefas não iniciadas)</li>
-  <li>Algorítmos e Lógica de Programação(Microfundamento Etapa-02)</li>
-  <li>Matemática Básica(Microfundamento Etapa-02)</li>
+  <li>Algorítmos e Lógica de Programação (Microfundamento Etapa-02)</li>
+  <li>Matemática Básica (Microfundamento Etapa-02)</li>
 </ul>
 
 <figure> 
