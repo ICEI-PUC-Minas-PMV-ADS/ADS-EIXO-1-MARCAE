@@ -8,7 +8,7 @@ O diagrama exibido na Figura 1 mostra o fluxo principal onde ilustra a sequênci
 ![Fluxo de usuário marcaê](img/fluxo.png)
 
 <figure>
-    <figcaption>Tela 1 - Fluxo principal de usuário
+    <figcaption> Fluxo principal de usuário
 </figure>
 
 ## Protótipo de média fidelidade
@@ -21,7 +21,7 @@ O diagrama exibido na Figura 1 mostra o fluxo principal onde ilustra a sequênci
 ![homepage](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t4-group_3/blob/0a84dd57a74d4f3d46ab6f95508edbc4296b35c9/documentos/img/Tela%20inicial%203.png)
 
 <figure> 
-  <figcaption>Tela 2 - Home page
+  <figcaption>Tela 1 - Home page
 </figure> 
 <hr>
 
@@ -31,7 +31,7 @@ O diagrama exibido na Figura 1 mostra o fluxo principal onde ilustra a sequênci
 ![login](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t4-group_3/blob/0a84dd57a74d4f3d46ab6f95508edbc4296b35c9/documentos/img/Login.png)
 
 <figure> 
-  <figcaption> Tela 3 - Login
+  <figcaption> Tela 2 - Login
 </figure> 
 <hr>
 
@@ -41,7 +41,7 @@ O diagrama exibido na Figura 1 mostra o fluxo principal onde ilustra a sequênci
 ![login](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t4-group_3/blob/0a84dd57a74d4f3d46ab6f95508edbc4296b35c9/documentos/img/Registre-se.png)
 
 <figure> 
-  <figcaption> Tela 4 - Registre-se
+  <figcaption> Tela 3 - Registre-se
 </figure> 
 <hr>
 
@@ -53,7 +53,7 @@ O diagrama exibido na Figura 1 mostra o fluxo principal onde ilustra a sequênci
 
 
 <figure> 
-  <figcaption> Tela 5 - Visualização de evento
+  <figcaption> Tela 4 - Visualização de evento
 </figure> 
 <hr>
 
@@ -68,7 +68,7 @@ Logo abaixo, é disponibilizada uma seleção de tipos de ingressos, cada um com
 ![Fluxo de usuário marcaê](img/compraIngresso3.png)
 
 <figure> 
-  <figcaption> Tela 6 - Compra de ingressos
+  <figcaption> Tela 5 - Compra de ingressos
 </figure> 
 <hr>
 
@@ -78,7 +78,7 @@ Logo abaixo, é disponibilizada uma seleção de tipos de ingressos, cada um com
 ![encerrados](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t4-group_3/blob/main/documentos/img/Historico1.png)
 
 <figure> 
-  <figcaption> Tela 7 - Eventos ativos
+  <figcaption> Tela 6 - Eventos ativos
 </figure> 
 <hr>
 
@@ -88,7 +88,7 @@ Logo abaixo, é disponibilizada uma seleção de tipos de ingressos, cada um com
 ![encerrados](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t4-group_3/blob/main/documentos/img/Eventos%20encerrados.png)
 
 <figure> 
-  <figcaption> Tela 8 - Eventos encerrados.
+  <figcaption> Tela 7 - Eventos encerrados.
 </figure> 
 <hr>
 
@@ -99,7 +99,7 @@ Logo abaixo, é disponibilizada uma seleção de tipos de ingressos, cada um com
 ![feedback](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t4-group_3/blob/main/documentos/img/Adicionando%20p%C3%B3s%20evento%202.png)
 
 <figure> 
-  <figcaption> Tela 9 - Adicionar Feedback.
+  <figcaption> Tela 8 - Adicionar Feedback.
 </figure> 
 <hr>
 
@@ -109,7 +109,7 @@ Logo abaixo, é disponibilizada uma seleção de tipos de ingressos, cada um com
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t4-group_3/assets/32981763/636dc1b8-42a4-414b-b1d6-55d0a833171e)
 
 <figure> 
-  <figcaption> Tela 10 - Pop-up para criação de eventos.
+  <figcaption> Tela 9 - Pop-up para criação de eventos.
 </figure> 
 <hr>
       
@@ -119,7 +119,7 @@ Logo abaixo, é disponibilizada uma seleção de tipos de ingressos, cada um com
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t4-group_3/assets/32981763/ba1fcbb0-bee8-4152-995a-5bfa6ffc216d)
 
 <figure> 
-  <figcaption> Tela 11 -  Criação de evento presencial.
+  <figcaption> Tela 10 -  Criação de evento presencial.
 </figure> 
 <hr>
       
@@ -128,7 +128,7 @@ Logo abaixo, é disponibilizada uma seleção de tipos de ingressos, cada um com
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t4-group_3/assets/32981763/2a3b7cc3-1403-4942-8b23-46967b70173c)
 <figure> 
-  <figcaption> Tela 12 - Criação de evento virtual.
+  <figcaption> Tela 11 - Criação de evento virtual.
 </figure> 
 <hr>
 
