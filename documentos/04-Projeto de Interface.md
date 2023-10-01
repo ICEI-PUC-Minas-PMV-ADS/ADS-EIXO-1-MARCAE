@@ -46,29 +46,31 @@ O diagrama exibido na Figura 1 mostra o fluxo principal onde ilustra a sequênci
 <hr>
 
 
-![Fluxo de usuário marcaê](img/visualizarEvento1)
-![Fluxo de usuário marcaê](img/visualizarEvento2)
+<h3><b>Tela - Visualização de eventos</b></h3>
+<p>A tela de visualização de evento oferece aos usuários uma visão das informações essenciais sobre um evento. No topo da tela, destaca-se o título do evento, seguido de uma breve descrição que fornece uma prévia do que os participantes podem esperar. Logo abaixo, estão listados alguns detalhes, como data, horário e local, garantindo que os usuários tenham acesso rápido a essas e outras informações cruciais.</p>
+
+![Fluxo de usuário marcaê](img/visualizarEvento1.png)
+![Fluxo de usuário marcaê](img/visualizarEvento2.png)
 
 <figure> 
   <figcaption> Figura 6 - Tela de visualização de evento
 </figure> 
 <hr>
 
-<h3><b>Tela - Visualização de eventos</b></h3>
-<p>A tela de visualização de evento oferece aos usuários uma visão das informações essenciais sobre um evento. No topo da tela, destaca-se o título do evento, seguido de uma breve descrição que fornece uma prévia do que os participantes podem esperar. Logo abaixo, estão listados alguns detalhes, como data, horário e local, garantindo que os usuários tenham acesso rápido a essas e outras informações cruciais.</p>
 
-![Fluxo de usuário marcaê](img/compraIngresso1)
-![Fluxo de usuário marcaê](img/compraIngresso2)
-![Fluxo de usuário marcaê](img/compraIngresso3)
+
+<h3><b>Tela - Compra de ingressos</b></h3>
+<p>A página de compra de ingressos proporciona aos utilizadores uma experiência intuitiva para garantir a sua participação no evento desejado. Nesta página, os detalhes do evento, como título, data, hora e local, são apresentados de forma clara para reforçar a escolha do usuário.
+Logo abaixo, é disponibilizada uma seleção de tipos de ingressos, cada um com a sua respetiva categoria e preço. Os usuários podem selecionar a quantidade desejada e, se aplicável, escolher preferências adicionais. O processo de pagamento é simplificado com opções seguras e populares disponíveis.</p>
+
+![Fluxo de usuário marcaê](img/compraIngresso1.png)
+![Fluxo de usuário marcaê](img/compraIngresso2.png)
+![Fluxo de usuário marcaê](img/compraIngresso3.png)
 
 <figure> 
   <figcaption> Figura 7 - Tela de compra de ingressos
 </figure> 
 <hr>
-
-<h3><b>Tela - Compra de ingressos</b></h3>
-<p>A página de compra de ingressos proporciona aos utilizadores uma experiência intuitiva para garantir a sua participação no evento desejado. Nesta página, os detalhes do evento, como título, data, hora e local, são apresentados de forma clara para reforçar a escolha do usuário.
-Logo abaixo, é disponibilizada uma seleção de tipos de ingressos, cada um com a sua respetiva categoria e preço. Os usuários podem selecionar a quantidade desejada e, se aplicável, escolher preferências adicionais. O processo de pagamento é simplificado com opções seguras e populares disponíveis.</p>
 
 
   
