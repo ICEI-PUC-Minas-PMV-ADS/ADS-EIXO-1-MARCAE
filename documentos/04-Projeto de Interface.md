@@ -72,8 +72,9 @@ Logo abaixo, é disponibilizada uma seleção de tipos de ingressos, cada um com
 </figure> 
 <hr>
 
+<h3><b>Tela - Eventos Ativos</b></h3>
+<p>A tela de eventos ativos consiste em mostrar os eventos cujo ingresso foi comprado pelo usuário e que ainda não aconteceram.</p>
 
-  
 ![encerrados](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t4-group_3/blob/main/documentos/img/Eventos%20encerrados.png)
 
 <figure> 
@@ -83,6 +84,13 @@ Logo abaixo, é disponibilizada uma seleção de tipos de ingressos, cada um com
 
 <h3><b>Tela - Eventos Encerrados</b></h3>
 <p>A tela de eventos encerrados consiste em verificar os eventos encerrados, ou até mesmo em expor sua opinião pessoal referente ao evento comparecido, apenas clicando no botão de interação "Adicionar Feedback".</p>
+
+![encerrados](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t4-group_3/blob/main/documentos/img/Eventos%20encerrados.png)
+
+<figure> 
+  <figcaption> Figura # - Tela de Eventos encerrados.
+</figure> 
+<hr>
 
 <h3><b>Tela - Adicionar Feedback</b></h3>
 <p>A tela de adicionar feedback consiste em expor sua opinião pessoal referente ao evento comparecido, com a disponibilidade de você escrever sua opinião, enviar alguma mídia, seja em fotos ou vídeos, marcar com estrelas seu nível de satisfação sobre tal evento ou as chances de recomendar para um amigo.</p>
