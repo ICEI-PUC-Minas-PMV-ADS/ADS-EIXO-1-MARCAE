@@ -45,8 +45,6 @@ O diagrama exibido na Figura 1 mostra o fluxo principal onde ilustra a sequênci
 </figure> 
 <hr>
 
-<h3><b>Tela - Eventos Encerrados</b></h3>
-<p>A tela de eventos encerrados consiste em verificar os eventos encerrados, ou até mesmo em expor sua opinião pessoal referente ao evento comparecido, apenas clicando no botão de interação "Adicionar Feedback".</p>
 
 ![Fluxo de usuário marcaê](img/visualizarEvento1)
 ![Fluxo de usuário marcaê](img/visualizarEvento2)
@@ -80,6 +78,9 @@ Logo abaixo, é disponibilizada uma seleção de tipos de ingressos, cada um com
   <figcaption> Figura # - Tela de Eventos encerrados.
 </figure> 
 <hr>
+
+<h3><b>Tela - Eventos Encerrados</b></h3>
+<p>A tela de eventos encerrados consiste em verificar os eventos encerrados, ou até mesmo em expor sua opinião pessoal referente ao evento comparecido, apenas clicando no botão de interação "Adicionar Feedback".</p>
 
 <h3><b>Tela - Adicionar Feedback</b></h3>
 <p>A tela de adicionar feedback consiste em expor sua opinião pessoal referente ao evento comparecido, com a disponibilidade de você escrever sua opinião, enviar alguma mídia, seja em fotos ou vídeos, marcar com estrelas seu nível de satisfação sobre tal evento ou as chances de recomendar para um amigo.</p>
