@@ -21,7 +21,7 @@ O diagrama exibido na Figura 1 mostra o fluxo principal onde ilustra a sequênci
 ![homepage](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t4-group_3/blob/0a84dd57a74d4f3d46ab6f95508edbc4296b35c9/documentos/img/Tela%20inicial%203.png)
 
 <figure> 
-  <figcaption>Figura 3 - Tela home page
+  <figcaption>Figura 2 - Tela home page
 </figure> 
 <hr>
 
@@ -31,7 +31,7 @@ O diagrama exibido na Figura 1 mostra o fluxo principal onde ilustra a sequênci
 ![login](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t4-group_3/blob/0a84dd57a74d4f3d46ab6f95508edbc4296b35c9/documentos/img/Login.png)
 
 <figure> 
-  <figcaption> Figura 4 - Tela de Login
+  <figcaption> Figura 3 - Tela de Login
 </figure> 
 <hr>
 
@@ -41,7 +41,7 @@ O diagrama exibido na Figura 1 mostra o fluxo principal onde ilustra a sequênci
 ![login](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t4-group_3/blob/0a84dd57a74d4f3d46ab6f95508edbc4296b35c9/documentos/img/Registre-se.png)
 
 <figure> 
-  <figcaption> Figura 5 - Tela de Registre-se
+  <figcaption> Figura 4 - Tela de Registre-se
 </figure> 
 <hr>
 
@@ -53,7 +53,7 @@ O diagrama exibido na Figura 1 mostra o fluxo principal onde ilustra a sequênci
 
 
 <figure> 
-  <figcaption> Figura 6 - Tela de visualização de evento
+  <figcaption> Figura # - Tela de visualização de evento
 </figure> 
 <hr>
 
@@ -68,7 +68,7 @@ Logo abaixo, é disponibilizada uma seleção de tipos de ingressos, cada um com
 ![Fluxo de usuário marcaê](img/compraIngresso3.png)
 
 <figure> 
-  <figcaption> Figura 7 - Tela de compra de ingressos
+  <figcaption> Figura # - Tela de compra de ingressos
 </figure> 
 <hr>
 
