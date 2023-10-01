@@ -61,8 +61,8 @@ Além do código fonte, utilizamos o GitHub para armazenar e gerenciar documento
 - Projeto de Interface - Figma:
 Utilizamos o Figma como nossa principal ferramenta para criação e colaboração na interface do projeto. Sua capacidade de design colaborativo em tempo real facilitou a criação de protótipos e a definição dos estilos do projeto.
 
-- Gerenciamento do Projeto - Trello:
-Adotamos o Trello para garantir a organização e o acompanhamento das tarefas. Essa plataforma ágil permitiu que a equipe criasse e gerenciasse quadros de projeto personalizados, adaptados às necessidades específicas do nosso trabalho.
+- Gerenciamento do Projeto - GitHub:
+Adotamos o Github também para a organização e o acompanhamento das tarefas. Essa plataforma ágil permitiu que a equipe criasse e gerenciasse quadros de projeto personalizados, adaptados às necessidades específicas do nosso trabalho.
 
 - Hospedagem - GitHub Pages:
 Decidimos hospedar nosso projeto no GitHub Pages, aproveitando a simplicidade e confiabilidade dessa plataforma para disponibilizar nossa aplicação na web de maneira acessível e estável.
