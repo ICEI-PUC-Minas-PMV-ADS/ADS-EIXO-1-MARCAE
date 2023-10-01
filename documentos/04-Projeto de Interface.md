@@ -53,7 +53,7 @@ O diagrama exibido na Figura 1 mostra o fluxo principal onde ilustra a sequênci
 
 
 <figure> 
-  <figcaption> Figura # - Tela de visualização de evento
+  <figcaption> Figura 5 - Tela de visualização de evento
 </figure> 
 <hr>
 
@@ -68,7 +68,7 @@ Logo abaixo, é disponibilizada uma seleção de tipos de ingressos, cada um com
 ![Fluxo de usuário marcaê](img/compraIngresso3.png)
 
 <figure> 
-  <figcaption> Figura # - Tela de compra de ingressos
+  <figcaption> Figura 6 - Tela de compra de ingressos
 </figure> 
 <hr>
 
@@ -78,7 +78,7 @@ Logo abaixo, é disponibilizada uma seleção de tipos de ingressos, cada um com
 ![encerrados](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t4-group_3/blob/main/documentos/img/Historico1.png)
 
 <figure> 
-  <figcaption> Figura # - Tela de Eventos ativos
+  <figcaption> Figura 7 - Tela de Eventos ativos
 </figure> 
 <hr>
 
@@ -88,7 +88,7 @@ Logo abaixo, é disponibilizada uma seleção de tipos de ingressos, cada um com
 ![encerrados](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t4-group_3/blob/main/documentos/img/Eventos%20encerrados.png)
 
 <figure> 
-  <figcaption> Figura # - Tela de Eventos encerrados.
+  <figcaption> Figura 8 - Tela de Eventos encerrados.
 </figure> 
 <hr>
 
@@ -99,7 +99,7 @@ Logo abaixo, é disponibilizada uma seleção de tipos de ingressos, cada um com
 ![feedback](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t4-group_3/blob/main/documentos/img/Adicionando%20p%C3%B3s%20evento%202.png)
 
 <figure> 
-  <figcaption> Figura # - Tela de Adicionar Feedback.
+  <figcaption> Figura 9 - Tela de Adicionar Feedback.
 </figure> 
 <hr>
 
@@ -108,13 +108,27 @@ Logo abaixo, é disponibilizada uma seleção de tipos de ingressos, cada um com
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t4-group_3/assets/32981763/636dc1b8-42a4-414b-b1d6-55d0a833171e)
 
+<figure> 
+  <figcaption> Figura 10 - pop-up para criação de Evento Presencial ou Virtual.
+</figure> 
+<hr>
+      
 <h4><b>Evento Presencial</b></h4>
 <p>Após clicar no botão "Evento Presencial", uma nova página será carregada para cadastro do evento.</p>
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t4-group_3/assets/32981763/ba1fcbb0-bee8-4152-995a-5bfa6ffc216d)
 
+<figure> 
+  <figcaption> Figura 11 - Tela de evento Presencial.
+</figure> 
+<hr>
+      
 <h4><b>Evento Virtual</b></h4>
 <p>Após clicar no botão "Evento Virtual", uma nova página será carregada para cadastro do evento virtual.</p>
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t4-group_3/assets/32981763/2a3b7cc3-1403-4942-8b23-46967b70173c)
+<figure> 
+  <figcaption> Figura 12 - Tela de evento Virtual.
+</figure> 
+<hr>
 
