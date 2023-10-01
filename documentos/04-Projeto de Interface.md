@@ -103,7 +103,12 @@ Logo abaixo, é disponibilizada uma seleção de tipos de ingressos, cada um com
 </figure> 
 <hr>
 
+<h3><b>Pop-up para criação de Evento Presencial ou Virtual</b></h3>
+<p>A tela será apresentada ao usuário, após clicar no botão "Seja um produtor", presente no cabeçalho das páginas home e informações dos eventos.</p>
 
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t4-group_3/assets/32981763/1384556d-f8e2-428a-b39c-8366f34c13d9)
 
+<h4><b>Evento Presencial</b></h4>
 
+<h4><b>Evento Virtual</b></h4>
 
