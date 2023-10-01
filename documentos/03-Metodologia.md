@@ -45,7 +45,6 @@ O quadro kanban do grupo no GitHub está disponível no link: https://github.com
      
     Figura 1 - Etiquetas GitHub
  
-    
  <figure>
   O quadro kanban do grupo no Trello está disponível no link: https://trello.com/b/DAeDJYZf/projeto-marca%C3%AA e é apresentado, no estado atual, na figura abaixo:
 
