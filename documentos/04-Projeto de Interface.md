@@ -75,10 +75,10 @@ Logo abaixo, é disponibilizada uma seleção de tipos de ingressos, cada um com
 <h3><b>Tela - Eventos Ativos</b></h3>
 <p>A tela de eventos ativos consiste em mostrar os eventos cujo ingresso foi comprado pelo usuário e que ainda não aconteceram.</p>
 
-![encerrados](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t4-group_3/blob/main/documentos/img/Eventos%20encerrados.png)
+![encerrados](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t4-group_3/blob/main/documentos/img/Historico1.png)
 
 <figure> 
-  <figcaption> Figura # - Tela de Eventos encerrados.
+  <figcaption> Figura # - Tela de Eventos ativos
 </figure> 
 <hr>
 
