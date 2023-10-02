@@ -7,14 +7,21 @@
 <table>
 <tbody>
 <tr align=center>
-<th colspan="2">Perfil Nome </th>
+<th colspan="2">Perfil Visitante do Site</th>
 </tr>
 <tr>
-<td width="150px"><b>Descrição</b></td>
+<td width="150px"><b>Usuário que acessa o site, a partir de algum mecanismo de busca como Google, Yahoo, Bing etc., ou divulgação externa, sites, blogs ou redes sociais. Esse perfil de usuário não possui cadastro no site Marcaê, porém faz uso das funcionalidades de busca e visualização de eventos e oportunidades de trabalho freelancer.</b></td>
 <td width="600px">...</td>
 </tr>
 <tr>
-<td><b>Necessidades</b></td>
+<td><b>●	Visualização de eventos e oportunidades freelancers;
+●	Busca de Eventos e Oportunidades freelancers;
+○	por localização;
+○	por categoria;
+○	por período. 
+●	Possibilidade de cadastro;
+●	Compartilhar eventos e oportunidades freelancers.
+</b></td>
 <td>...</td>
 </tr>
 </tbody>
