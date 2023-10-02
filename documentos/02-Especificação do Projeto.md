@@ -155,9 +155,11 @@
 
 ### Requisitos não Funcionais
 
-|ID      | Descrição               |Prioridade |
-|--------|-------------------------|----|
-| RNF-01 |  ...                    | ...   | 
-| ...    |  ...                    | ...   | 
+|ID    | Descrição                | Prioridade |
+|-------|---------------------------------|----|
+| RNF-01 |O site deve ser responsivo e funcionar bem em dispositivos móveis, para acomodar usuários que acessam o site por meio de smartphones e tablets.| Média   | 
+| RNF-02 |O site deve garantir a segurança e a confidencialidade das informações pessoais e de contato fornecidas pelos artistas.| Alta   |              
+| RNF-03 |Os recursos do site estarão disponíveis aos navegadores que suportam Javascript. | Alta   | 
+| RNF-04 |O site cumprirá a LGPD (Lei Geral de Proteção de Dados) para gestão dos dados cadastrados pelos usuários ou administradores.| Alta   | 
 
 
