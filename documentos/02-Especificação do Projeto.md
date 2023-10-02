@@ -160,8 +160,15 @@
 
 |ID    | Descrição                | Prioridade |
 |-------|---------------------------------|----|
-| RF-01 |  ...                    | ...   | 
-|  ...  |  ...                    | ...   |
+| RF-01 | O site deve permitir que os artistas criem um perfil no site|Alta| 
+| RF-02 | O site deve permitir que os artistas insiram informações sobre sua arte, incluindo descrição, estilo, e outros detalhes relevantes|Média| 
+| RF-03 | O site deve permitir que os administradores visualizem, editem e excluam os eventos e oportunidades cadastrados|Média| 
+| RF-04 | O site deve permitir que os usuários adicionem reações aos eventos e oportunidades|Baixa| 
+| RF-05 | O site deve ter mecanismos de busca, com filtros que considerem as preferências dos usuários|Alta| 
+| RF-06 | O site deve apresentar painéis com as métricas de vendas e acessos dos usuários|Baixa| 
+| RF-07 | O site deve dispor da opção dos usuários escolherem os assentos, quando aplicável ao tipo de evento|Média| 
+| RF-08 | O site deve permitir que os usuários efetuem as compras do ingresso|Média| 
+| RF-09 | O site deve disponibilizar aos usuários cadastrados o histórico de compras|Baixa| 
 
 
 ### Requisitos não Funcionais
