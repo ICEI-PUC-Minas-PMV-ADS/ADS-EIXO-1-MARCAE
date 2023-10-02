@@ -4,10 +4,10 @@
 
 `PROJETO, ETAPA 1`
 
-`EIXO 1`
+`EIXO 1, 2023`
 
-`O projeto surgiu da observação de uma entrevista entre artistas que discutiam os impactos negativos da descentralização na internet no teatro. Antônio Fagundes, um renomado artista brasileiro, expressou preocupação com a diminuição do público que lia jornais ou assistia a programas de televisão devido aos avanços tecnológicos. 
-O projeto visa criar um site que facilite a promoção de eventos pagos ou gratuitos, permitindo que os usuários interajam com as postagens para fortalecer a divulgação. Após pesquisar sites de eventos semelhantes, a ideia é criar uma plataforma que ofereça informações sobre eventos, incentive a divulgação e crie oportunidades de interação entre os usuários, funcionando como uma bilheteria online.`
+O projeto surgiu da observação de uma entrevista entre artistas que discutiam os impactos negativos da descentralização na internet no teatro. Antônio Fagundes, um renomado artista brasileiro, expressou preocupação com a diminuição do público que lia jornais ou assistia a programas de televisão devido aos avanços tecnológicos. 
+O projeto visa criar um site que facilite a promoção de eventos pagos ou gratuitos, permitindo que os usuários interajam com as postagens para fortalecer a divulgação. Após pesquisar sites de eventos semelhantes, a ideia é criar uma plataforma que ofereça informações sobre eventos, incentive a divulgação e crie oportunidades de interação entre os usuários, funcionando como uma bilheteria online.
 
 ## Integrantes
 
