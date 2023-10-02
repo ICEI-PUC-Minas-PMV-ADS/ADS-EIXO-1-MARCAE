@@ -142,8 +142,19 @@
 
 |EU COMO... `QUEM`   | QUERO/PRECISO ... `O QUE` |PARA ... `PORQUE`                 |
 |--------------------|---------------------------|----------------------------------|
-| ...                | ...                       | ...                              |
-| ...                | ...                       | ...                              |
+|Músico [Freelancer]|praticidade na hora de buscar eventos para trabalhar|otimizar a busca de oportunidades, que exibam os eventos de forma centralizada dos locais que necessitam do meu serviço. |
+|Estudante Universitário[Participante/Interessado por Eventos]| site onde mostre os eventos da minha cidade | facilitar os passeios aos finais de semana com colegas, como forma de minimizar a dificuldade de encontrar lugares agradáveis para o grupo.|
+|Artista [Freelancer]|criar um perfil no site, incluindo informações sobre minha arte, experiência e portfólio.|onde organizadores de eventos possam me encontrar e considerar para oportunidades de apresentação.|
+|Artista [Freelancer]|enviar minha candidatura para participar de eventos diretamente através do site, incluindo informações de contato e exemplos de meu trabalho.|facilitar o processo de seleção.|
+|Artista [Freelancer]|receber notificações de eventos que correspondem ao meu perfil e interesse.|ficar atualizado sobre oportunidades de apresentação.|
+|Visitante do Site|ver todos os eventos cadastrados por região e data|rápida navegação, com a visualização de apenas eventos do meu interesse.|
+|Visitante do Site|ter a possibilidade de compartilhamento dos eventos|convite de novos participantes, para por fim, efetuar a compra ou inscrição nos eventos.|
+|Administrador|ter acesso à todos os perfis de usuário, eventos e oportunidades cadastradas|edição, inclusão e exclusão de informações, quando necessário.|
+|Administrador|painel com as métricas dos cadastros de usuários e publicações.|geração de campanhas e gerenciamento dos perfis de usuário e postagens.|
+|Promotor|cadastrar e gerenciar eventos e oportunidades freelancers, de forma personalizada, com imagens e vídeos, e opção para navegação em blogs ou sites da iniciativa.|melhor autonomia e acompanhamento das inscrições, com nível de detalhes adequado para cada publicação.|
+|Promotor|área no site, para atendimento dos usuários, com dúvidas, reclamações ou sugestões para o evento. E opção para ferramentas externas, como grupos no Telegram, WhatsApp ou demais comunidades.|melhor acolhimento do usuário e fidelização dos inscritos.|
+|Participante/Interessado por Eventos|colocar minhas impressões nos eventos e oportunidades, além da possibilidade de compartilhar ou até mesmo incorporar (embed) eventos em outras plataformas|melhor entrosamento com a comunidade de usuários com perfis semelhantes.|
+
 
 ## Requisitos do Projeto
 
