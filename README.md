@@ -1,10 +1,10 @@
 # Marcaê
 
-`CURSO`
+`TÉCNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS`
 
-`DISCIPLINA`
+`PROJETO SEGUNDA ETAPA`
 
-`SEMESTRE`
+`EIXO 1`
 
 Descrever resumidamente, em um ou dois parágrafos, o projeto desenvolvido.
 
