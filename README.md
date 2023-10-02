@@ -2,9 +2,11 @@
 
 `TÉCNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS`
 
-`PROJETO`
+`PROJETO, ETAPA 1`
 
 `EIXO 1`
+
+A ideação do projeto surgiu após visualização de uma entrevista entre artistas que discutiam como o teatro foi prejudicado com as chamadas descentralizadas na internet. Antônio Fagundes, um importante artista da cena brasileira, mostrou-se desconfortável ao fato de boa parte do público não ler jornal ou assistir programas televisivos, como anteriormente com os avanços da era tecnológica, onde há um aumento do fluxo e quantidade de informações. Logo, o projeto envolve a criação de um site que pretende maximizar os contatos para eventos pagos ou gratuitos. Onde os usuários possam interagir com as postagens dos eventos, de forma a fortalecer a divulgação e promoção de novos eventos particulares ou profissionais. Após uma breve pesquisa por sites de eventos, notamos que existem algumas plataformas que divulgam eventos e permitem a interação dos usuários para compra, como uma bilheteria online. Com isso, o projeto propõe a partir de um processo de benchmarking, a criação de um site que apresente eventos, incentivos para divulgação e oportunidades entre os usuários.
 
 ## Integrantes
 
