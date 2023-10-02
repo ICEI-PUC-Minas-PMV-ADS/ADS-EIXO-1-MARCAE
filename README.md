@@ -6,8 +6,6 @@
 
 `EIXO 1`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto desenvolvido.
-
 ## Integrantes
 
 * Rogério Rodrigues Mendes
