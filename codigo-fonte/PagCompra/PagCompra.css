@@ -1,0 +1,328 @@
+/* CONTAINER 2 */
+
+.container-fluid {
+    margin: 0;
+    padding: 0;
+}
+
+.bcgIMG {
+    padding: 0;
+}
+
+.BannerEvento {
+    margin-top: 65px;
+    width: 550px;
+    height: 650px;
+    box-sizing: 0;
+}
+
+h3 {
+    font-size: 22px;
+    color: #5176A2;
+    margin-top: 130px;
+    font-weight: 600;
+}
+
+.tituloEvt p {
+    color: #5176A2;
+    font-size: 15px;
+}
+
+.tebaudo {
+    margin-top: 40px;
+    width: 700px;
+    border: 1px solid #dee2e6;
+    border-radius: 10px;
+    background-color: rgba(250, 182, 56, 0.10);
+    display: block;
+    box-shadow: 2px 3px 3px rgba(0, 0, 0, 0.2);
+}
+
+.table {
+    width: 700px;
+    margin-bottom: 0;
+    height: 385px;
+    font-size: 14px;
+}
+
+.table td,
+.table th {
+    border-top: none;
+    border-bottom: 1px solid #dee2e6;
+    font-weight: none;
+}
+
+.table-hover tbody tr:hover {
+    color: #212529;
+    background-color: rgba(0, 0, 0, 0.026);
+}
+
+th {
+    font-weight: normal;
+
+}
+
+#thhhh {
+    border-bottom: none;
+}
+
+#thBlue {
+    color: #5176A2;
+    font-weight: normal;
+    font-weight: 500;
+}
+
+.ingreso {
+    height: 50px;
+    width: 250px;
+    color: #4B5157;
+}
+
+.ingreso p {
+    margin-bottom: 0;
+    line-height: 20px;
+}
+
+.ingresoTitulo {
+    width: 189px;
+    font-weight: 700;
+    margin-bottom: 0;
+    color: #262D33;
+}
+
+.data {
+    font-size: 12px;
+}
+
+.valor p {
+    margin-top: 15px;
+    color: #4b5157f1;
+    font-weight: 500;
+}
+
+.tt p {
+    margin-top: 15px;
+    margin-left: 20px;
+}
+
+.addIngreso {
+    width: 117px;
+    height: 46px;
+    border: 1px solid #D9DADB;
+    border-radius: 20px;
+}
+
+.addIngreso:hover {
+    border-color: #fab63870;
+}
+
+.thQnt {
+    margin: 0;
+    margin-left: 20px;
+}
+
+.addBotao {
+    color: #4B5157;
+}
+
+.quantidadeButton {
+    border: none;
+    background: none;
+    font-size: 30px;
+    color: #BCBFC2;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.quantidadeButton:hover {
+    color: #fab63896;
+
+}
+
+#quantidade1,
+#quantidade2,
+#quantidade3 {
+    margin-top: 14px;
+    font-size: 15px;
+    color: #4b5157f1;
+    font-weight: 500;
+}
+
+#total1,
+#total2,
+#total3{
+    color: #4b5157f1;
+    font-weight: 500;
+}
+
+/* forma de pagamento botao */
+.paymentForm{
+    margin-top:50px;
+    
+}
+
+.paymentForm select {
+
+    font-size: 15px;
+    padding: 10px;
+    border: 1px solid #fab63870;
+    border-radius: 100px;
+    background-color: #fff;
+    color: #333;
+    width: 200px;
+    font-weight:500;
+}
+
+.paymentForm select:focus-visible{
+    outline-color: #fab63870;
+
+}
+  
+.paymentForm option {
+    font-size: 15px;
+    background-color: #fff;
+    color: #333;
+    font-weight:500;
+}
+  
+.paymentForm select option:checked {
+    background-color: #f0f0f0;
+    color: #5176A2;
+    font-weight: bolder;
+}
+
+.paymentForm label{
+    color: #5176A2;
+font-size: 16px;
+font-weight:500;
+padding-right:10px;
+
+}
+
+/* CONTAINER 3 */
+
+.addCartao{
+    margin-left:150px !important;
+}
+
+.addCartao p{
+    font-weight:500;
+    margin-top:30px;
+    margin-bottom:30px;
+    font-size:17px;
+
+}
+
+
+.addCartao label{
+    color: #898c97dd;
+    font-weight:700;
+    font-size:14px;
+    margin-left:6px;
+}
+
+.addCartao input{
+    width:640px;
+    margin-bottom:30px;
+}
+
+.form-control:focus {
+    color: #495057;
+    background-color: #fff;
+    border-color: #fab63870;
+    outline: 0;
+    box-shadow: 0 0 0 0.1rem #fab63832;
+}
+.dataCVV{margin-left:0.2px;}
+
+.dataCVV input{
+    width:297px;
+}
+
+.dc{
+    margin-right:50px;
+}
+
+.dc2{
+    margin-right:0 !important;
+}
+
+.h33{
+    font-size: 27px;
+    margin-top: 110px;
+}
+
+.cupom h3{
+    margin-top: 110px;
+    margin-bottom:30px;
+}
+
+.cupom span{
+    color: #000;
+    font-size: 14px;
+    font-weight: 500;
+    padding-left:0;
+}
+
+.cupom p{
+    color: #777E90;
+    font-size: 12px;
+    font-weight: 400;
+}
+
+.cupomCol{
+    padding: 0;
+}
+.cupomCol2{
+    text-align: end;
+}
+
+.cupomCol button{
+    width:60px;
+    height:40px;
+    margin-top: 175px;
+    border-radius:100px;
+    font-size:14px;
+    color:#5176A2 ;
+}
+
+.linha3 {
+    margin-top: 175px;
+    width: 1px;
+    height: 50px;
+    background:rgba(0, 0, 0, 0.1);
+
+}
+
+.cartaoPresente{
+    margin-top: 175px;
+}
+
+.colLinha{
+margin-left:60px;
+width:60px !important;
+}
+
+.cupom{
+    margin-left:150px !important;
+}
+
+/* Envio ingresso */
+
+.EnvioIng{
+    margin-left: 150px ;
+}
+
+.EnvioIng h3{
+    font-size: 27px;
+    color: #5176A2;
+    margin-top: 110px;
+    font-weight: 600;
+}
+
+.EnvioIng p {
+    font-weight: 500;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-size: 17px;
+}
