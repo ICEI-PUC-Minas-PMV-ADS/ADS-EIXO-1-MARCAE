@@ -165,6 +165,35 @@ RF-005: permite que o usuário consulte o histórico de compras de ingressos.
 Rogério Rodrigues Mendes
 
 
+# Programação de Funcionalidades
+
+Implementação da aplicação descritas por meio dos requisitos codificados. 
+
+### Tela de compra e visualização de ingressos (REF-008, REF-011)
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ADS-EIXO-1-MARCAE/assets/65633444/84ae0549-abb5-4d0a-91cc-8279a7b18c89)
+
+
+#### Requisito atendido
+
+RF-08	O site deve permitir que os usuários efetuem as compras do ingresso
+
+RF-11	O site deve permitir que os usuários visualize as informações do evento tais como preços, descrições datas e etc.
+
+
+#### Artefatos da funcionalidade
+
+•	PagCompra.html
+•	PagCompra.css
+•	PagCompra.js
+•	Footer.css
+•	Menu.css
+
+
+#### Responsável
+Riniel Rodrigo dos Santos
+
+
 
 > **Links Úteis**:
 > - [Trabalhando com HTML5 Local Storage e JSON](https://www.devmedia.com.br/trabalhando-com-html5-local-storage-e-json/29045)
