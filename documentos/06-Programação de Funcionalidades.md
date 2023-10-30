@@ -124,6 +124,46 @@ Baixar PagEvento > acessar pagina PagEvento.html
 #### Responsável
 Guilherme Morato
 
+# Programação de Funcionalidades
+
+Implementação da aplicação descritas por meio dos requisitos codificados. 
+
+### Tela de Ingressos (REF-005)
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ADS-EIXO-1-MARCAE/assets/65633444/84ae0549-abb5-4d0a-91cc-8279a7b18c89)
+
+
+#### Requisito atendido
+
+RF-005: permite que o usuário consulte o histórico de compras de ingressos.
+
+
+#### Artefatos da funcionalidade
+
+● PagHistórico.html
+
+● Menu.css
+
+● PagHistórico.css
+
+● PagHistórico.js
+
+● PagHistórico.html2
+
+
+#### Estrutura de Dados
+
+[Caso exista estrutura de dados, adicione aqui]
+
+
+#### Instruções de acesso
+
+[Adicione as orientações de acesso à funcionalidade]
+
+
+#### Responsável
+Rogério Rodrigues Mendes
+
 
 
 > **Links Úteis**:
