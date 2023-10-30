@@ -15,11 +15,11 @@ O site deve disponibilizar aos usuários cadastrados como promotores, a possibil
 
 Itens da página:
 - Campos para preenchimento sobre o evento:
--- Nome do evento;
--- Data/Horário;
--- Descrição;
--- Local do Evento;
--- Categoria do Evento.
+ - Nome do evento;
+ - Data/Horário;
+ - Descrição;
+ - Local do Evento;
+ - Categoria do Evento.
 - Opção para upload de arquivos;
 - Tabela para informações dos tipos de ingresso;
 - Botão de Cadastro do Evento.  
