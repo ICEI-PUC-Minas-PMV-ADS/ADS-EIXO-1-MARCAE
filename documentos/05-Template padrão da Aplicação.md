@@ -19,3 +19,10 @@ O código utilizado para a construção dos elementos citados, incluindo a respo
   <figcaption> Figura 1 - Tela de Cadastro de Eventos
 </figure> 
 
+<h3><b>Tela de ingressos ativos ou encerrados.</b></h3>
+<p>Exibe informações sobre os eventos que estão ativos ou encerrados, com possibilidade para adicionar feedback's aos eventos que já passaram.</p>
+<figure> 
+  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/ADS-EIXO-1-MARCAE/assets/65633444/844e16bf-b292-4071-8596-c0ccf4b8aef9">
+  <figcaption>Figura 2 - Tela de Ingressos      
+</figure> 
+<hr>
