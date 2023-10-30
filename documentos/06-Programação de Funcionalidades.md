@@ -37,9 +37,47 @@ RF-001: permite que o usuário efetue o login.
 Nicholas Deway
 
 
+### Tela de Cadastro (REF-002)
+
+![cadastre-se](https://github.com/ICEI-PUC-Minas-PMV-ADS/ADS-EIXO-1-MARCAE/assets/144181666/6c1bd445-4c2e-4c7f-bb6c-cf9d6f6b83bf)
+
+
+Requisito atendido
+RF-002: permite o usuario cadastrar sua conta
+
+Artefatos da funcionalidade
+
+● PagLogin.html
+
+● Menu.css
+
+● PagLogin.css
+
+● PagLogin.js
+
+
+#### Estrutura de Dados
+
+[Caso exista estrutura de dados, adicione aqui]
+
+
+#### Instruções de acesso
+
+[Adicione as orientações de acesso à funcionalidade]
+
+
+#### Responsável
+João Victor
+
+
+
 ### Tela de Cadastro de Eventos Presenciais
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ADS-EIXO-1-MARCAE/assets/32981763/483dd3ef-dfc5-4ff0-b1fa-0177dadaca45)
+
+
+
+
 
 
 > **Links Úteis**:
