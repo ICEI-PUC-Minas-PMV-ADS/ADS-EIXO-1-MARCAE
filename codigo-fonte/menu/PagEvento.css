@@ -1,0 +1,342 @@
+.ord2{
+  display:none !important;
+  width:1px;
+  
+}
+
+.sp{
+  display:inline-block;
+}
+
+#menu-icon{
+  width:20px;
+  height:20px;
+}
+.row {
+  border: solid 1.8px;
+  border-color: rgba(0, 0, 0, 0.1);
+
+}
+
+.navbar-brand{
+  margin-right:0;
+  padding-right:0;
+}
+
+.linha {
+  width: 2px;
+  height: 65px;
+  background:#fab63872;
+  margin-top: 13px;
+}
+
+.navbar {
+  padding:0;
+  width:285px;
+}
+
+.loc{
+  width:157px;
+
+}
+
+.navbar-expand .navbar-nav .nav-link {
+  padding-right: .7rem;
+  padding-left: .7rem;
+}
+
+.nav-link{
+  color: #FAB638;
+  font-size: 14px;
+  font-weight: 550;
+}
+
+.local{
+  font-size:14px;
+}
+
+#iconloc{
+  width: 18px;
+  height: 18px;
+}
+
+#trocloc{
+  width: 15px;
+  height: 14px;
+}
+
+
+.form-control{
+  margin-top:5px;
+  border-radius: 10px;
+  margin-right:0 !important;
+  width: 380px;
+  height: 35px;
+}
+
+::placeholder{
+  font-size: 13px;
+}
+
+.botao{
+  border:none;
+  background:none;
+  margin:0;
+  color:none;
+}
+
+.form-inline .form-control{
+box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.2);
+}
+
+.form-inline .form-control:active{
+  box-shadow: 0px 2px 2px rgba(225, 182, 26, 0.286);
+  }
+
+
+.botao:hover{
+  background-color: rgba(242, 204, 68, 0.042);
+}
+.inp:focus{
+  border-color: #FAB638;
+}
+
+#lupa{
+  width: 18px;
+  height: 18px;
+}
+/* ////////////////// */
+
+@media (max-width: 1033px ) {
+
+  .shc{
+    width:100%;
+
+  }
+
+  .form-inline .form-control{
+    width: 500px;
+    height: 35px;
+    margin-bottom:10px;
+  }
+
+}
+
+@media (max-width: 718px ) {
+  .form-inline .form-control{
+    width: 200px;
+    height: 35px;
+  }
+}
+
+@media (max-width: 576px ) {
+  #lupa, .nb, .locB, .sp{
+    display:none;
+    width:0px;
+    height:0px;
+    position: none;
+    flex-wrap: nowrap;
+  }
+  .linha{
+    height:45px;
+    margin-top: 3px;
+  }
+
+  .row {
+    display: flex;
+    flex-wrap:nowrap;
+    border: none;
+    border-color:none;
+
+}
+  .dropdown{
+    width:500px;
+    display:inline-block !important;
+    padding-left:20px;
+    padding-top:0;
+    margin-top:15px;
+    justify-items:end;
+    
+  }
+
+  .btn-secondary{
+    background-color:white;
+    border-color: rgba(0, 0, 0, 0.2);
+  }
+
+  #logo{
+    width:150px;
+    height:50px;
+  }
+  
+  .form-inline{
+    padding-top:6%;
+    padding-left:30px;
+  }
+
+  .form-inline .form-control{
+    width: 150px;
+    height: 37px;
+    margin-bottom:100px;
+    box-shadow:none;
+    border-radius:7px;
+  }
+
+  .logocol{
+    width:100px;
+  }
+
+  .ord1{
+    order:-2;
+  }
+
+  .ord3{
+    order:-2;
+  }
+
+  .ord2{
+    order:-2;
+  }
+
+}
+/* CSS DO CORPO DA PAGINA */
+#tituloPrin {
+  font-size: 50px;
+  text-align: center;
+  color: #5176A2;
+  stroke: #000000;
+  font-weight: 1000;
+  font-family: Roboto slab;
+  font-weight: bold;
+  margin-top: 70px;
+}
+#diaEhora {
+  font-size: 30px;
+  text-align: center;
+  color: #5176A2;
+  stroke: #000000;
+  font-weight: 1000;
+  font-family: Regular;
+  font-weight: bold;
+  margin-top: 25px;
+  letter-spacing: 2px;
+}
+.container-fluid{
+#tituloUm {
+  text-align: left;
+  font-size: 24px;
+  color: #FF0000;
+  font-weight: bold;
+  width: 500px;
+}
+#textoUm{
+  text-align: left;
+  font-size: 24px;
+  color: #000000;
+  font-family: Regular;
+}
+#tituloDois{
+  text-align: left;
+  font-size: 24px;
+  color: #5176A2;
+}
+#textoDois{
+  text-align: left;
+  font-size: 24px;
+  color: #000000;
+  font-family: Regular;
+}
+#cancPed{
+  margin-bottom: 1rem;
+  font-weight: bold;
+}
+#edicPart{
+  margin-top: 20px;
+  margin-bottom: 1rem;
+  font-weight: bold;
+
+}
+#localTexto{
+  text-align: left;
+  font-size: 24px;
+  color: #5176A2;
+  margin-top: 20px;
+}
+#endereco{
+  text-align: left;
+    font-size: 16px;
+    color: #000000;
+    font-weight: 400;
+}
+}
+#voltar{
+  font-size: 20px;
+  color: #5176A2;
+  margin-top: -50px;
+}
+#comprarIng{
+  border-radius: 10px;
+  font-size: 20px;
+  background-color: #FAB638;
+  border: 0px;
+  margin-left: 1200px;
+}
+
+
+/*RODAPÉ*/
+.containerFooter {
+  margin-top: 110px;
+  padding-left: 30px;
+  background-color: rgba(250, 182, 56, 0.20) !important;
+  box-shadow: 4px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+
+
+.list-group-item {
+  background-color: rgba(250, 182, 56, 0);
+  border: none !important;
+}
+
+
+.itemItem li {
+  color: #353945;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 22px;
+}
+
+.itemTitulo {
+  color: #2A2824 !important;
+  font-size: 15px !important;
+  font-weight: 700 !important;
+}
+
+.redes svg {
+  margin: 0px 4px 6px 0px;
+}
+
+.copyID {
+  color: #2A2824;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  padding-left:0;
+margin-top:50px;
+
+}
+
+.list-group-item {
+  padding-top: 0.50rem;
+  padding-bottom: 0.50rem;
+}
+
+footer a{
+  color: #353945;
+  text-decoration: initial;
+}
+
+footer a:hover{
+  text-decoration: none;
+  color:#5176A2;
+
+}
