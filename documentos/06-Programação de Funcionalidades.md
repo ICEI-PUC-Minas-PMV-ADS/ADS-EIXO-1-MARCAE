@@ -171,8 +171,7 @@ Implementação da aplicação descritas por meio dos requisitos codificados.
 
 ### Tela de compra e visualização de ingressos (REF-008, REF-011)
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ADS-EIXO-1-MARCAE/assets/65633444/84ae0549-abb5-4d0a-91cc-8279a7b18c89)
-
+![pagCompra print](https://github.com/ICEI-PUC-Minas-PMV-ADS/ADS-EIXO-1-MARCAE/assets/80684745/0f070860-fe7e-4402-81c8-2589bb9aa14a)
 
 #### Requisito atendido
 
