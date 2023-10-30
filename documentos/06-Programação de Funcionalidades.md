@@ -43,6 +43,7 @@ Nicholas Deway
 
 
 Requisito atendido
+
 RF-002: permite o usuario cadastrar sua conta
 
 Artefatos da funcionalidade
