@@ -42,7 +42,7 @@ Nicholas Deway
 ![cadastre-se](https://github.com/ICEI-PUC-Minas-PMV-ADS/ADS-EIXO-1-MARCAE/assets/144181666/6c1bd445-4c2e-4c7f-bb6c-cf9d6f6b83bf)
 
 
-Requisito atendido
+### Requisito atendido
 
 RF-002: permite o usuario cadastrar sua conta
 
