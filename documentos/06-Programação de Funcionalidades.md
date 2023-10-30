@@ -41,6 +41,15 @@ Nicholas Deway
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ADS-EIXO-1-MARCAE/assets/32981763/483dd3ef-dfc5-4ff0-b1fa-0177dadaca45)
 
+#### Requisito atendido
+
+RF-10: O site deve disponibilizar aos usuários cadastrados como promotores, a possibildade de cadastro de eventos presenciais e virtuais.
+
+#### Artefatos da funcionalidade
+
+● PagEvtPresencial.html
+
+● PagEvtPresencial.css
 
 > **Links Úteis**:
 > - [Trabalhando com HTML5 Local Storage e JSON](https://www.devmedia.com.br/trabalhando-com-html5-local-storage-e-json/29045)
