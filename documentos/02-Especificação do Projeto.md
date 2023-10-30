@@ -169,6 +169,7 @@
 | RF-07 | O site deve dispor da opção dos usuários escolherem os assentos, quando aplicável ao tipo de evento|Média| 
 | RF-08 | O site deve permitir que os usuários efetuem as compras do ingresso|Média| 
 | RF-09 | O site deve disponibilizar aos usuários cadastrados o histórico de compras|Baixa| 
+| RF-10 | O site deve disponibilizar aos usuários cadastrados como promotores, a possibildade de cadastro de eventos presenciais e virtuais.|Alta| 
 
 
 ### Requisitos não Funcionais
