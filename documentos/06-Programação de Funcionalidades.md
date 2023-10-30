@@ -92,6 +92,39 @@ RF-10: O site deve disponibilizar aos usuários cadastrados como promotores, a p
 Mariana Vieira Santos
 
 
+### Tela de Login (REF-001)
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ADS-EIXO-1-MARCAE/assets/65633444/84ae0549-abb5-4d0a-91cc-8279a7b18c89)
+
+
+#### Requisito atendido
+
+RF-004: permite que o usuário acesse a pagina de compra, a partir da vizualização dos dados do evento.
+
+
+#### Artefatos da funcionalidade
+
+● PagEvento.html
+
+● PagEvento.css
+
+● PagEvento.js
+
+
+#### Estrutura de Dados
+
+[Caso exista estrutura de dados, adicione aqui]
+
+
+#### Instruções de acesso
+
+Baixar PagEvento > acessar pagina PagEvento.html
+
+
+#### Responsável
+Guilherme Morato
+
+
 
 > **Links Úteis**:
 > - [Trabalhando com HTML5 Local Storage e JSON](https://www.devmedia.com.br/trabalhando-com-html5-local-storage-e-json/29045)
