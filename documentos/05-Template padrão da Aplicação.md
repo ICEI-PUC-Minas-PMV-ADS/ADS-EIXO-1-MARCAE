@@ -23,6 +23,14 @@ O código utilizado para a construção dos elementos citados, incluindo a respo
 <p>Exibe informações sobre os eventos que estão ativos ou encerrados, com possibilidade para adicionar feedback's aos eventos que já passaram.</p>
 <figure> 
   <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/ADS-EIXO-1-MARCAE/assets/65633444/844e16bf-b292-4071-8596-c0ccf4b8aef9">
-  <figcaption>Figura 2 - Tela de Ingressos      
+  <figcaption>Figura 2 - Tela de Ingressos
+</figure> 
+<hr>
+
+<h3><b>Tela de login.</b></h3>
+<p>Exibe informações para acessar ou criar sua conta, tendo a possibilidade de efetuar o login com Google ou Facebook.</p>
+<figure> 
+  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/ADS-EIXO-1-MARCAE/assets/65633444/9e319cda-3f4b-4208-a062-369ac0a7bea3">
+  <figcaption>Figura 2 - Tela de Login    
 </figure> 
 <hr>
