@@ -46,7 +46,7 @@ Nicholas Deway
 
 RF-002: permite o usuario cadastrar sua conta
 
-Artefatos da funcionalidade
+#### Artefatos da funcionalidade
 
 ● PagLogin.html
 
