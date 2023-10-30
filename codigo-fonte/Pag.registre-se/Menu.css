@@ -1,0 +1,201 @@
+.ord2{
+    display:none !important;
+    width:1px;
+    
+  }
+  
+  .sp{
+    display:inline-block;
+  }
+  
+  #menu-icon{
+    width:20px;
+    height:20px;
+  }
+  .row {
+    border: solid 1.8px;
+    border-color: rgba(0, 0, 0, 0.1);
+  
+  }
+  
+  .navbar-brand{
+    margin-right:0;
+    padding-right:0;
+  }
+  
+  .linha {
+    width: 2px;
+    height: 65px;
+    background:#fab63872;
+    margin-top: 13px;
+  }
+  
+  .navbar {
+    padding:0;
+    width:285px;
+  }
+  
+  .loc{
+    width:157px;
+  
+  }
+  
+  .navbar-expand .navbar-nav .nav-link {
+    padding-right: .7rem;
+    padding-left: .7rem;
+  }
+  
+  .nav-link{
+    color: #FAB638;
+    font-size: 14px;
+    font-weight: 550;
+  }
+  
+  .local{
+    font-size:14px;
+  }
+  
+  #iconloc{
+    width: 18px;
+    height: 18px;
+  }
+  
+  #trocloc{
+    width: 15px;
+    height: 14px;
+  }
+  
+  
+  .form-control{
+    margin-top:5px;
+    border-radius: 10px;
+    margin-right:0 !important;
+    width: 380px;
+    height: 35px;
+  }
+  
+  ::placeholder{
+    font-size: 13px;
+  }
+  
+  .botao{
+    border:none;
+    background:none;
+    margin:0;
+    color:none;
+  }
+  
+  .form-inline .form-control{
+  box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.2);
+  }
+  
+  .form-inline .form-control:active{
+    box-shadow: 0px 2px 2px rgba(225, 182, 26, 0.286);
+    }
+  
+  
+  .botao:hover{
+    background-color: rgba(242, 204, 68, 0.042);
+  }
+  .inp:focus{
+    border-color: #FAB638;
+  }
+  
+  #lupa{
+    width: 18px;
+    height: 18px;
+  }
+  /* ////////////////// */
+  
+  @media (max-width: 1033px ) {
+  
+    .shc{
+      width:100%;
+  
+    }
+  
+    .form-inline .form-control{
+      width: 500px;
+      height: 35px;
+      margin-bottom:10px;
+    }
+  
+  }
+  
+  @media (max-width: 718px ) {
+    .form-inline .form-control{
+      width: 200px;
+      height: 35px;
+    }
+  }
+  
+  @media (max-width: 576px ) {
+    #lupa, .nb, .locB, .sp{
+      display:none;
+      width:0px;
+      height:0px;
+      position: none;
+      flex-wrap: nowrap;
+    }
+    .linha{
+      height:45px;
+      margin-top: 3px;
+    }
+  
+    .row {
+      display: flex;
+      flex-wrap:nowrap;
+      border: none;
+      border-color:none;
+  
+  }
+    .dropdown{
+      width:500px;
+      display:inline-block !important;
+      padding-left:20px;
+      padding-top:0;
+      margin-top:15px;
+      justify-items:end;
+      
+    }
+  
+    .btn-secondary{
+      background-color:white;
+      border-color: rgba(0, 0, 0, 0.2);
+    }
+  
+    #logo{
+      width:150px;
+      height:50px;
+    }
+    
+    .form-inline{
+      padding-top:6%;
+      padding-left:30px;
+    }
+  
+    .form-inline .form-control{
+      width: 150px;
+      height: 37px;
+      margin-bottom:100px;
+      box-shadow:none;
+      border-radius:7px;
+    }
+  
+    .logocol{
+      width:100px;
+    }
+  
+    .ord1{
+      order:-2;
+    }
+  
+    .ord3{
+      order:-2;
+    }
+  
+    .ord2{
+      order:-2;
+    }
+  
+  }
