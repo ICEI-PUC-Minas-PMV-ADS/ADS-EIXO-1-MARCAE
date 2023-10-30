@@ -34,3 +34,11 @@ O código utilizado para a construção dos elementos citados, incluindo a respo
   <figcaption>Figura 2 - Tela de Login    
 </figure> 
 <hr>
+
+<p>Para a criação do logotipo do site foi utilizada a cor amarela, foi escolhida essa cor para justamente chamar mais atenção e criar impacto.</p>
+
+<figure> 
+  <img src="[https://github.com/ICEI-PUC-Minas-PMV-ADS/ADS-EIXO-1-MARCAE/blob/main/documentos/img/logo.png](https://github.com/ICEI-PUC-Minas-PMV-ADS/ADS-EIXO-1-MARCAE/assets/65633444/79c69653-a982-476e-b59d-1574d8c03067)">
+    <figcaption>Figura 3 - Logotipo da aplicação web Marcaê.
+</figure> 
+
