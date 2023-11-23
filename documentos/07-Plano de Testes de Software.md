@@ -4,7 +4,7 @@
 
 Os testes funcionais a serem realizados na aplicação são descritos a seguir. [Utilize a estrutura abaixo para cada caso de teste]
 
-|Caso de Teste    | CT-X - Título Caso de Teste |
+|Caso de Teste    | CT-1 - Cadastro de Eventos |
 |:---|:---|
 | Requisitos Associados | RF-02 |
 | Objetivo do Teste | Permitir o cadastro de novos eventos presenciais ou virtuais. |
@@ -20,6 +20,8 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
 | | # Caso ocorra, algum erro no processo de registro do evento, o site deve salvar automaticamente as informações.|
 | Responsável pela elaborar do caso de Teste | Mariana V. Santos |
 
+|Caso de Teste    | CT-X - Nome do Teste |
+|:---|:---|
 | Requisitos Associados | RF-XX |
 | Objetivo do Teste | XXX |
 | Passos | XXX |
