@@ -11,6 +11,7 @@ Os resultados dos testes funcionais realizados na aplicação são descritos a s
 | |3. Após envio dos dados, usuário é redirecionado para a página do evento criado.|
 | |4. Após clicar no botão "Mais", é criada mais uma linha na tabela para preenchimento dos dados.|
 | |5. Após clicar no botão "Menos", a linha recém criada foi removida.|
+| |6. Ao selecionar um arquivo maior que 2MB é exibida uma mensagem de erro.|
 | Responsável pela execução do caso de Teste | Mariana V. Santos |
 
 1. Campos obrigatórios.
@@ -23,9 +24,12 @@ Os resultados dos testes funcionais realizados na aplicação são descritos a s
    
 [Inserir aqui as evidências de teste que podem ser apresentadas por print de telas ou por .gif de execução de teste]
 
-5. Nova linha criada.
+4. Nova linha criada.
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ADS-EIXO-1-MARCAE/assets/32981763/58ccad07-5e8a-4c77-b24c-5ed23883741d)
 
 
-7. Linha removida.
+5. Linha removida.
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ADS-EIXO-1-MARCAE/assets/32981763/e5dbf401-24e4-4492-ace2-2ebe99fa23d6)
+
+6. Tamanha excedido.
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ADS-EIXO-1-MARCAE/assets/32981763/2af2ae75-af35-4229-833d-801c330e4319)
