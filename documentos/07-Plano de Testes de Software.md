@@ -18,7 +18,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
 | | # Caso o usuário não informe algum campo não obrigatório, permitir conclusão do cadastro do evento.|
 | | # Ao clicar no botão "Mais"no cadastro dos ingressos, criar mais uma linha para registro dos detalhes.|
 | | # Ao clicar no botão "Menos"no cadastro dos ingressos, remover as linhas e detalhes.|
-| | # Caso o tamanho da mídia ultrapasse o minimo permitido, exibir mensagem de erro e não permitir conclusão do cadastro.|
+| | # Caso o tamanho da mídia ultrapasse o máximo permitido, exibir mensagem de erro e não permitir conclusão do cadastro.|
 | | # Caso ocorra, algum erro no processo de registro do evento, o site deve salvar automaticamente as informações.|
 | Responsável pela elaborar do caso de Teste | Mariana V. Santos |
 
