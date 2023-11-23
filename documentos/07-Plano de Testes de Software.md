@@ -12,8 +12,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
 2. Escolha o Tipo de Evento que deseja cadastrar;
 3. Após escolha, será direcionado ao formulário para cadastro do evento;
 4. Preencha todos os campos obrigatórios e clique no botão "Cadastrar";
-5. Caso o cadastro tenha ocorrido com êxito, será direcionado para a página do Evento.
-|
+5. Caso o cadastro tenha ocorrido com êxito, será direcionado para a página do Evento.|
 | Critérios de êxito | Indicar os critérios de êxito  |
 | Responsável pela elaborar do caso de Teste | Nome do integrante da equipe |
  
