@@ -27,6 +27,14 @@ label {
 
 #buttonPlus {
     background-color: lightgrey;
+    min-width: 50px; 
+    min-height: 30px;
+}
+
+#buttonRemove {
+    background-color: lightcoral;
+    min-width: 50px; 
+    min-height: 30px;
 }
 
 #submitEvent {
@@ -68,3 +76,7 @@ legend{
     margin-right: 10px; 
 }
 
+.required-label::after {
+    content: " *";
+    color: red;
+}
