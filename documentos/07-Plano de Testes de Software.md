@@ -8,7 +8,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
 |:---|:---|
 | Requisitos Associados | RF-02 |
 | Objetivo do Teste | Permitir o cadastro de novos eventos presenciais ou virtuais. |
-| Passos | 1. Clique no botão "XXXX" presente no canto superior direito.|
+| Passos | 1. Clique no botão "Criar Evento" presente na tela inicial no canto superior direito.|
 | | 2. Escolha o Tipo de Evento que deseja cadastrar;|
 | |3. Após escolha, será direcionado ao formulário para cadastro do evento;|
 | |4. Preencha todos os campos obrigatórios e clique no botão "Cadastrar";|
