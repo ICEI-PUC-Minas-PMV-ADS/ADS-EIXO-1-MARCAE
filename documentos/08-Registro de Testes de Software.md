@@ -19,13 +19,13 @@ Os resultados dos testes funcionais realizados na aplicação são descritos a s
 2. Campos obrigatórios preenchidos.
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ADS-EIXO-1-MARCAE/assets/32981763/e41a2535-e518-4dd7-9a28-018732703c44)
 
-3. Página do Evento criado. 
+3. Página do Evento criado.
+   
 [Inserir aqui as evidências de teste que podem ser apresentadas por print de telas ou por .gif de execução de teste]
 
-4. Nova linha criada.
-
-5. Linha removida.
-![Uploading image.png…]()
+5. Nova linha criada.
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ADS-EIXO-1-MARCAE/assets/32981763/58ccad07-5e8a-4c77-b24c-5ed23883741d)
 
 
-[Inserir aqui as evidências de teste que podem ser apresentadas por print de telas ou por .gif de execução de teste]
+7. Linha removida.
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ADS-EIXO-1-MARCAE/assets/32981763/e5dbf401-24e4-4492-ace2-2ebe99fa23d6)
