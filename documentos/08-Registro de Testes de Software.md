@@ -4,7 +4,7 @@ Relatório com as evidências dos testes de software realizados na aplicação p
 
 Os resultados dos testes funcionais realizados na aplicação são descritos a seguir. [Utilize a estrutura abaixo para cada caso de teste executado]
 
-|Caso de Teste    | CT-X - Título Caso de Teste |
+|Caso de Teste    | CT-1 - Cadastro de Eventos |
 |:---|:---|
 | Resultados obtidos | 1. Ao tentar enviar formulário sem campos obrigatórios, é exibida uma mensagem de erro.|
 | |2. Preenchidos apenas os campos obrigatórios, é possivel prosseguir com o cadastro.|
