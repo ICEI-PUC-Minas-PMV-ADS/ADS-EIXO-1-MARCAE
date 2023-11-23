@@ -18,7 +18,12 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
 | | # Caso o usuário não informe algum campo não obrigatório, permitir conclusão do cadastro do evento.|
 | | # Caso o tamanho da mídia ultrapasse o minimo permitido, exibir mensagem de erro e não permitir conclusão do cadastro.|
 | | # Caso ocorra, algum erro no processo de registro do evento, o site deve salvar automaticamente as informações.|
-| Responsável pela elaborar do caso de Teste | Nome do integrante da equipe |
+| Responsável pela elaborar do caso de Teste | Mariana V. Santos |
+
+| Requisitos Associados | RF-XX |
+| Objetivo do Teste | XXX |
+| Passos | XXX |
+| Responsável pela elaborar do caso de Teste | XXX |
  
 > **Links Úteis**:
 > - [IBM - Criação e Geração de Planos de Teste](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
