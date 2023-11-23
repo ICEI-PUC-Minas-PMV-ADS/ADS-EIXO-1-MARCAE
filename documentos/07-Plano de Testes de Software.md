@@ -13,7 +13,11 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
 | |3. Após escolha, será direcionado ao formulário para cadastro do evento;|
 | |4. Preencha todos os campos obrigatórios e clique no botão "Cadastrar";|
 | |5. Caso o cadastro tenha ocorrido com êxito, será direcionado para a página do Evento.|
-| Critérios de êxito | Indicar os critérios de êxito  |
+| Critérios de êxito | # Página Inicial conter o botão "XXXXX";  |
+| | # Botão conter duas ações, eventos presenciais e virtuais. E direcionar para formulário com campos diferentes.|
+| | # Caso o usuário não informe algum campo não obrigatório, permitir conclusão do cadastro do evento.|
+| | # Caso o tamanho da mídia ultrapasse o minimo permitido, exibir mensagem de erro e não permitir conclusão do cadastro.|
+| | # Caso ocorra, algum erro no processo de registro do evento, o site deve salvar automaticamente as informações.|
 | Responsável pela elaborar do caso de Teste | Nome do integrante da equipe |
  
 > **Links Úteis**:
