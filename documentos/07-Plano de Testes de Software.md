@@ -22,12 +22,21 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
 | | # Caso ocorra, algum erro no processo de registro do evento, o site deve salvar automaticamente as informações.|
 | Responsável pela elaborar do caso de Teste | Mariana V. Santos |
 
-|Caso de Teste    | CT-X - Nome do Teste |
+|Caso de Teste    | CT-2 - Visualização de Ingressos |
 |:---|:---|
-| Requisitos Associados | RF-XX |
-| Objetivo do Teste | XXX |
-| Passos | XXX |
-| Responsável pela elaborar do caso de Teste | XXX |
+| Requisitos Associados | RF-05 |
+| Objetivo do Teste | Permitir que o usuário consulte o histórico de compras de ingressos. |
+| Passos | 1. Clique no botão "Ativo" presente na tela inicial no canto superior esquerdo. |
+|| 2.Clique no botão "Imprimir Ingresso" presente na tela inicial ao lado direito da imagem.|
+|| 3.Escolha o tipo de ingresso.|
+|| 4.Após a escolha, clique no botão "Imprimir Ingresso".|
+|| 5.Clique no botão "Encerrado" presente na tela inicial no canto superior esquerdo.|
+|| 6.Digite o seu feedback dentro da caixa de texto e clique no botão "Enviar Feedback".|
+|Critérios de êxito | # Página inicial conter o botão "Imprimir Ingresso".|
+|| # Botão conter duas ações, selecionar o Tipo de Ingresso e permitir a impressão do ingresso selecionado.|
+|| # Ao clicar no botão "Tipo de Ingresso", permitir a escolha na lista suspensa.|
+|| # Ao clicar no botão "Imprimir Ingresso", mostrar alerta correspondente a escolha que foi impressa.|
+| Responsável pela elaboração do caso de Teste | Rogério Rodrigues Mendes |
  
 > **Links Úteis**:
 > - [IBM - Criação e Geração de Planos de Teste](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
