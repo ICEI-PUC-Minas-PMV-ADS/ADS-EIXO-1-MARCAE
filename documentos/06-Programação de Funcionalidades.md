@@ -130,7 +130,8 @@ Implementação da aplicação descritas por meio dos requisitos codificados.
 
 ### Tela de Ingressos (REF-005)
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ADS-EIXO-1-MARCAE/assets/65633444/84ae0549-abb5-4d0a-91cc-8279a7b18c89)
+![Captura de tela 2023-11-24 173211](https://github.com/ICEI-PUC-Minas-PMV-ADS/ADS-EIXO-1-MARCAE/assets/146504095/aeac8610-8446-40a4-bbb0-20f70faab1ac)
+
 
 
 #### Requisito atendido
