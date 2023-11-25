@@ -31,5 +31,62 @@ Os resultados dos testes funcionais realizados na aplicação são descritos a s
 5. Linha removida.
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ADS-EIXO-1-MARCAE/assets/32981763/e5dbf401-24e4-4492-ace2-2ebe99fa23d6)
 
-6. Tamanha excedido.
+6. Tamanho excedido.
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ADS-EIXO-1-MARCAE/assets/32981763/2af2ae75-af35-4229-833d-801c330e4319)
+
+|Caso de Teste    | CT-2 - Visualização de Ingressos |
+|:---|:---|
+| Resultados obtidos | 1. Ao tentar enviar formulário sem campos obrigatórios, é exibida uma mensagem de erro.|
+| |2. Preenchidos apenas os campos obrigatórios, é possivel prosseguir com o cadastro.|
+| |3. Após envio dos dados, usuário é redirecionado para a página do evento criado.|
+| |4. Após clicar no botão "Mais", é criada mais uma linha na tabela para preenchimento dos dados.|
+| |5. Após clicar no botão "Menos", a linha recém criada foi removida.|
+| |6. Ao selecionar um arquivo maior que 2MB é exibida uma mensagem de erro.|
+| Responsável pela execução do caso de Teste | Rogério Rodrigues Mendes |
+
+1. Campos obrigatórios.
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ADS-EIXO-1-MARCAE/assets/32981763/a2a691e4-5e61-4f3a-ab39-d5f6dafb708a)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
