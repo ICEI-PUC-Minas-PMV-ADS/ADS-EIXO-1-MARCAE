@@ -1,0 +1,110 @@
+/* CSS DO CORPO DA PAGINA */
+#tituloPrin {
+  font-size: 27px;
+  text-align: center;
+  color: #5176A2;
+  stroke: #000000;
+  font-weight: 1000;
+  font-family: Roboto slab;
+  font-weight: bold;
+  margin-top: 70px;
+}
+#diaEhora {
+  font-size: 22px;
+  text-align: center;
+  color: #5176A2;
+  stroke: #000000;
+  font-weight: 1000;
+  font-family: Regular;
+  font-weight: bold;
+  margin-top: 25px;
+  letter-spacing: 2px;
+}
+#bannerPrin {
+  width: auto;
+}
+.container-fluid
+{
+#tituloUm{
+  text-align: left;
+  font-size: 22px;
+  color: #FF0000;
+  font-weight: bold;
+
+}
+#textoUm{
+  text-align: left;
+  font-size: 24px;
+  color: #000000;
+  font-family: Regular;
+}
+#tituloDois{
+  text-align: left;
+  font-size: 24px;
+  color: #5176A2;
+}
+#textoDois{
+  text-align: left;
+  font-size: 24px;
+  color: #000000;
+  font-family: Regular;
+}
+#cancPed{
+  margin-bottom: 1rem;
+  font-weight: bold;
+}
+#edicPart{
+  margin-top: 20px;
+  margin-bottom: 1rem;
+  font-weight: bold;
+
+}
+#localTexto{
+  text-align: left;
+  font-size: 24px;
+  color: #5176A2;
+  margin-top: 20px;
+}
+#endereco{
+  text-align: left;
+    font-size: 16px;
+    color: #000000;
+    font-weight: 400;
+}
+}
+#voltar{
+  font-size: 20px;
+  color: #5176A2;
+}
+#comprarIng{
+  border-radius: 10px;
+  font-size: 20px;
+  background-color: #FAB638;
+  border: 0px;
+  
+}
+#comprar{
+  font-size: 20px;
+  color: #000000;
+  margin-top: -50px;
+  font-style: normal;
+  text-decoration: none;
+}
+.container-fluid{
+  #corpoPag{
+  justify-items: auto;
+  }
+}
+
+.BannerEvento{
+  width:100%;
+  height:auto;
+}
+
+.comprarIngVoltar{
+  display:flex;
+  justify-content:space-between;
+}
+/*-------------------------------------------------*/
+
+

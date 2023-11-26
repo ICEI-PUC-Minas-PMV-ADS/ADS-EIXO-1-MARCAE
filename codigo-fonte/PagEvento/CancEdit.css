@@ -1,0 +1,51 @@
+#tituloCanc {
+    font-size: 50px;
+    text-align: center;
+    color: #5176A2;
+    stroke: #000000;
+    font-weight: 1000;
+    font-family: Roboto slab;
+    font-weight: bold;
+    margin-top: 70px;
+  }
+  #tituloBold{
+    font-size: 20px;
+    font-style: bold;
+    margin-top: 15px;
+  }
+  #criterios{
+    font-size: 35px;
+    font-style: bold;
+    text-align: center;
+    margin-top: 35px;
+    font-family: sans-serif;
+  }
+  #calend{
+    vertical-align: middle;
+    width: 2%;
+    margin-left: 1.5%;
+  }
+  #relogio{
+    vertical-align: middle;
+    width: 3%;
+    margin-left: 1%;
+  }
+  #textoCorpo{
+    font-size: 18px;
+  }
+  #contato{
+    font-size: 18px;
+    margin-top: 15px;
+    font-style: bold;
+  }
+  #considFinal{
+    font-size: 18px;
+    text-align: center;
+    color: #5176a2;
+    margin-top: 35px;
+  }
+  #voltarLinks{
+    font-size: 20px;
+    color: #5176A2;
+    margin-top: 10px;
+  }

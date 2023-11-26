@@ -1,0 +1,322 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+<!-- Header CSS -->
+<link rel="stylesheet" href="../Header.css">
+<!-- Footer css -->
+<link rel="stylesheet" href="../Footer.css" />
+    <link rel="stylesheet" href="PagEvento.css">
+    <title>Marcaê | Samba no topo</title>
+</head>
+
+<body>
+
+
+    <header>
+        <div class="container-fluid">
+            <div class="row row1 g-2 align-items-center justify-content-center">
+                <!-- Coluna 1 com os elementos da logo -->
+                <div class="col-lg-3 col-md-4 col-sm-6 col-6 d-flex MenuColunm MenuColunm1">
+                    <a href="../index.html"><img id="logo" src="public/images/log.png" alt="logo" /></a>
+
+                    <div class="linha1"></div>
+                </div>
+                <!--  MenuColunm1 close  -->
+
+                <!-- Coluna 2 com os elementos dos itens do menu -->
+                <div class="col-lg-4 col-md-4 col-sm-6 MenuColunm MenuColunm2">
+                    <nav class="navbar navbar-expand">
+                        <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+                            <div class="navbar-nav">
+                                <a class="nav-link" href="../PagCadastroEvento/form.html">Seja um produtor</a>
+                                <a class="nav-link" href="../PagLogin/PagLogin.html">Login</a>
+                                <a class="nav-link" href="../PagCadastro/PagCadastro.html">Criar conta</a>
+                            </div>
+                        </div>
+                    </nav>
+                </div>
+                <!--  MenuColunm2 close  -->
+
+                <!-- Coluna 3 com os elementos da troca de local -->
+                <div class="col-lg-2 col-md-4 col-sm-6 MenuColunm MenuColunm3">
+                    <div class="d-flex align-items-center justify-content-center">
+                        <svg id="crosshair" xmlns="http://www.w3.org/2000/svg" width="20" height="20"
+                            fill="currentColor" class="bi bi-crosshair" viewBox="0 0 16 16">
+                            <path
+                                d="M8.5.5a.5.5 0 0 0-1 0v.518A7.001 7.001 0 0 0 1.018 7.5H.5a.5.5 0 0 0 0 1h.518A7.001 7.001 0 0 0 7.5 14.982v.518a.5.5 0 0 0 1 0v-.518A7.001 7.001 0 0 0 14.982 8.5h.518a.5.5 0 0 0 0-1h-.518A7.001 7.001 0 0 0 8.5 1.018V.5Zm-6.48 7A6.001 6.001 0 0 1 7.5 2.02v.48a.5.5 0 0 0 1 0v-.48a6.001 6.001 0 0 1 5.48 5.48h-.48a.5.5 0 0 0 0 1h.48a6.002 6.002 0 0 1-5.48 5.48v-.48a.5.5 0 0 0-1 0v.48A6.001 6.001 0 0 1 2.02 8.5h.48a.5.5 0 0 0 0-1h-.48ZM8 10a2 2 0 1 0 0-4 2 2 0 0 0 0 4Z" />
+                        </svg>
+                        São Paulo - SP
+                        <div class="setas">
+                            <div class="svg-container">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" fill="currentColor"
+                                    class="bi bi-chevron-up" viewBox="0 0 16 16">
+                                    <path fill-rule="evenodd"
+                                        d="M7.646 4.646a.5.5 0 0 1 .708 0l6 6a.5.5 0 0 1-.708.708L8 5.707l-5.646 5.647a.5.5 0 0 1-.708-.708l6-6z" />
+                                </svg>
+                            </div>
+                            <div class="svg-container">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" fill="currentColor"
+                                    class="bi bi-chevron-down" viewBox="0 0 16 16">
+                                    <path fill-rule="evenodd"
+                                        d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z" />
+                                </svg>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!--  MenuColunm3 close  -->
+
+                <div class="col-lg-3 col-md-12 col-sm-6 col-12 MenuColunm MenuColunm4">
+                    <nav class="navPesquisar navbar justify-content-end">
+                        <form class="form-inline d-flex">
+                            <div class="inputContainer">
+                                <input class="inp form-control mr-sm-2" type="search" placeholder="Pesquisar eventos..."
+                                    aria-label="Search" />
+                                <svg id="lupaIcon" xmlns="http://www.w3.org/2000/svg" width="28" height="28"
+                                    fill="currentColor" class="bi bi-search" viewBox="0 0 16 16">
+                                    <path
+                                        d="M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z" />
+                                </svg>
+                            </div>
+                        </form>
+                    </nav>
+                </div>
+                <!-- MenuColunm4 close  -->
+
+                <!-- Coluna 5 com os elementos do menu em dropdown (só em dispositivos mobile) -->
+                <div class="col-6 MenuColunm MenuColunm5">
+                    <div class="dropdown dropdownX">
+                        <button class="botaoDrop btn btn-secondary dropdown-toggle" type="button"
+                            id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" fill="currentColor"
+                                class="bi bi-list" viewBox="0 0 16 16">
+                                <path fill-rule="evenodd"
+                                    d="M2.5 12a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5zm0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5zm0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5z" />
+                            </svg>
+                        </button>
+                        <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
+                            <li><a class="dropdown-item" href="../PagCadastroEvento/form.html">Seja um produtor</a></li>
+                            <li><a class="dropdown-item" href="../PagLogin/PagLogin.html">Login</a></li>
+                            <li><a class="dropdown-item" href="../PagCadastro/PagCadastro.html">Criar conta</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <!--  MenuColunm5 close  -->
+            </div>
+            <!--  Row close  -->
+        </div>
+        <!--Container close -->
+    </header>
+
+    <div class="linha2"></div>
+
+    <!-- Bootstrap scripts -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous">
+        </script>
+
+    <!--CORPO DA PAGINA-->
+    <div class="container-fluid" id="corpoPag">
+        <div class="container">
+            <p id="tituloPrin">
+                SAMBA NO TOPO - Grupo Kairu + Cruvinel +Afrokong
+            </P>
+            <p id="diaEhora">
+                • 24 Setembro 16:30 às 23:00 •
+            </p>
+        </div>
+        <div class="container-fluid">
+            <div class="bcgIMG">
+                <img class="BannerEvento img-fluid" src="public/images/banner.png" alt="Banner do evento" />
+            </div>
+        </div>
+        <div class="container-fluid">
+            <p id="tituloUm">
+                SAMBA NO TOPO | DOM 03/09 | Mira!
+            </p>
+            <p id="textoUm">
+            <p>Já se imaginou curtindo um sambinha no fim de tarde com o pôr do sol em meio aos principais edifícios do
+                centro da cidade, bem ali na principal praça de Belo Horizonte? Hmmm, deu vontade né?!
+            </p>
+            <p>Com a intenção de dar protagonismo ao estilo musical com mais cara de domingo possível, o Samba no Topo
+                chega com mais
+                uma edição no novo espaço sensação da cidade: o Mira! Localizado no terraço do Edifício Dona Júlia na
+                Rua de Janeiro, 600. Isso mesmo, bem ali na Praça 7.
+            </p>
+            <p>
+                Conta pra gente: domingo + terraço + fim de tarde + pôr do sol + cervejinha gelada + bons drinks +
+                música boa + gente bonita. Isso tudo combina com o que?
+            </p>
+            <p>
+                É CLARO QUE É SAMBA!
+            </p>
+            <p>
+                Então salva a data e avisa geral: domingo dia 03/09 tem Samba no Topo.
+            </p>
+            <p>
+                O SEU SAMBA DE DOMINGO
+            </p>
+            <p>
+                Instagram: @sambanotopo
+            </p>
+            <p>
+                Facebook: Samba no Topo
+            </p>
+            <p>
+                Rua Rio de Janeiro, 600 | 25º andar (bem ali na Praça 7).
+            </p>
+            </p>
+            <p id="tituloDois">
+                Política do evento:
+            </p>
+            <p id="textoDois">
+            <p id="cancPed">
+                •Cancelamento de pedidos pagos:
+            </p>
+            Cancelamentos de pedidos serão aceitos até 7 dias após a compra, desde que a solicitação seja enviada até 48
+            horas antes do início do evento.
+            <a id="sobreCanc" href=Cancelamento.html>
+                Saiba mais sobre o cancelamento
+            </a>
+            <p id="edicPart">
+                •Edição de participantes:
+            </p>
+            Você poderá editar o participante de um ingresso apenas uma vez. Essa opção ficará disponível até 24 horas
+            antes do início do evento.
+            <a id="sobreEdic" href=EdicParticipantes.html>
+                Saiba como editar participantes
+            </a>
+            <p id="localTexto">
+                Local
+            </p>
+            <p id="endereco">
+                Mira! Centro Cultural
+                Rua Rio de Janeiro, 600, 25º Andar, Centro
+                Belo Horizonte, MG
+            </p>
+            </p>
+        </div>
+        <hr id="linhaInf">
+        <div class="comprarIngVoltar">
+            <a class="nav-link" href="../index.html" id="voltar">← Voltar</a>
+
+            <button id="comprarIng">
+                <a rel="stylesheet" href="../PagCompra/PagCompra.html" id="comprar">Comprar Ingressos</a>
+            </button>
+        </div>
+    </div>
+    <!--FIM DO CORPO DA PAGINA-->
+
+    <footer>
+        <div class="container-fluid containerFooter">
+            <img id="logo" src="public/images/log.png" alt="logo">
+            <div class="row rowFooter">
+
+                <div class="col-sm d-flex itemItem">
+                    <ul class="list-group list-group-flush">
+                        <li class="list-group-item itemTitulo">Contate-nos</li>
+                        <li class="list-group-item">atendimento@marcae.com.br</li>
+                        <li class="list-group-item">0800 123 123</li>
+                        <li class="list-group-item">Praça da Liberdade, 244 -<br>Liberdade, São Paulo - SP,<br>01503-010
+                        </li>
+                        <li class="list-group-item">
+                            <div class="redes">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="20" height="22" viewBox="0 0 20 22"
+                                    fill="none">
+                                    <path fill-rule="evenodd" clip-rule="evenodd"
+                                        d="M18 0.908203H2C0.89543 0.908203 0 1.84954 0 3.01074V19.831C0 20.9922 0.89543 21.9335 2 21.9335L10 21.9335V14.0181H7V11.0498H10V9.45586C10 6.43811 11.4897 5.11327 13.925 5.11327C15.0684 5.11327 15.6836 5.19886 15.9825 5.24044L16 5.24288V8.08155H14.339C13.3053 8.08155 13 8.64354 13 9.78138V11.0498H15.9741L15.5629 14.0181H13V21.9335L18 21.9335C19.1046 21.9335 20 20.9922 20 19.831V3.01074C20 1.84954 19.1046 0.908203 18 0.908203Z"
+                                        fill="#2A2824" />
+                                </svg>
+
+                                <svg xmlns="http://www.w3.org/2000/svg" width="20" height="22" viewBox="0 0 20 22"
+                                    fill="none">
+                                    <path fill-rule="evenodd" clip-rule="evenodd"
+                                        d="M18 0.908203H2C0.89543 0.908203 0 1.84954 0 3.01074V19.831C0 20.9922 0.89543 21.9335 2 21.9335H18C19.1046 21.9335 20 20.9922 20 19.831V3.01074C20 1.84954 19.1046 0.908203 18 0.908203ZM4 5.70622C4 6.61394 4.70032 7.3514 5.56637 7.3514C6.4297 7.3514 7.13184 6.61394 7.13184 5.70622C7.13184 4.79946 6.4297 4.062 5.56637 4.062C4.70123 4.062 4 4.79851 4 5.70622ZM4.25044 17.7285H6.93695V8.64937H4.25044V17.7285ZM17 17.7285H14.3153V13.3133C14.3153 12.2602 14.2971 10.9058 12.9192 10.9058C11.5213 10.9058 11.3064 12.0526 11.3064 13.2367V17.7285H8.62172V8.64937H11.1989V9.88995H11.2354C11.5942 9.1764 12.4703 8.42364 13.7771 8.42364C16.4973 8.42364 17 10.3041 17 12.7489V17.7285Z"
+                                        fill="#2A2824" />
+                                </svg>
+
+                                <svg xmlns="http://www.w3.org/2000/svg" width="20" height="22" viewBox="0 0 20 22"
+                                    fill="none">
+                                    <path fill-rule="evenodd" clip-rule="evenodd"
+                                        d="M18 0.908203H2C0.89543 0.908203 0 1.84954 0 3.01074V19.831C0 20.9922 0.89543 21.9335 2 21.9335H18C19.1046 21.9335 20 20.9922 20 19.831V3.01074C20 1.84954 19.1046 0.908203 18 0.908203ZM15.3502 7.46743C15.9312 7.39683 16.4847 7.2403 17 7.0077C16.615 7.59276 16.1277 8.10668 15.5661 8.5188C15.5715 8.64413 15.5742 8.77001 15.5742 8.89644C15.5742 12.7544 12.686 17.2028 7.40283 17.2028C5.78051 17.2028 4.27126 16.7196 3 15.8915C3.22507 15.9189 3.45391 15.9325 3.68544 15.9325C5.03154 15.9325 6.26995 15.4657 7.25261 14.6825C5.99588 14.659 4.93516 13.8145 4.56956 12.6548C4.74455 12.6881 4.92493 12.7067 5.10961 12.7067C5.37183 12.7067 5.62598 12.6712 5.86666 12.6044C4.55232 12.3368 3.56267 11.1568 3.56267 9.74202V9.70535C3.94981 9.92372 4.39295 10.0551 4.86354 10.0704C4.09303 9.54718 3.58636 8.65343 3.58636 7.64093C3.58636 7.10512 3.72797 6.60379 3.97458 6.17252C5.39175 7.93921 7.50783 9.10167 9.89474 9.22317C9.84628 9.01027 9.82043 8.78698 9.82043 8.5582C9.82043 6.9464 11.1062 5.6389 12.6925 5.6389C13.5184 5.6389 14.2647 5.99355 14.7886 6.5611C15.4434 6.42975 16.0583 6.18675 16.6129 5.85235C16.3986 6.53428 15.9436 7.10621 15.3502 7.46743Z"
+                                        fill="#2A2824" />
+                                </svg>
+
+                                <svg xmlns="http://www.w3.org/2000/svg" width="20" height="22" viewBox="0 0 20 22"
+                                    fill="none">
+                                    <path fill-rule="evenodd" clip-rule="evenodd"
+                                        d="M6 0.908203H14C17.3137 0.908203 20 3.73221 20 7.2158V15.6259C20 19.1095 17.3137 21.9335 14 21.9335H6C2.68629 21.9335 0 19.1095 0 15.6259V7.2158C0 3.73221 2.68629 0.908203 6 0.908203ZM16 4.062C16.5 4.062 17 4.58763 17 5.11327C17 5.6389 16.5 6.16453 16 6.16453C15.5 6.16453 15 5.6389 15 5.11327C15 4.58763 15.5 4.062 16 4.062ZM15 11.4209C15 8.522 12.7575 6.16453 10 6.16453C7.2425 6.16453 5 8.522 5 11.4209C5 14.3197 7.2425 16.6772 10 16.6772C12.7575 16.6772 15 14.3197 15 11.4209ZM10 8.26706C8.34315 8.26706 7 9.67907 7 11.4209C7 13.1627 8.34315 14.5747 10 14.5747C11.6569 14.5747 13 13.1627 13 11.4209C13 9.67907 11.6569 8.26706 10 8.26706Z"
+                                        fill="#2A2824" />
+                                </svg>
+                            </div>
+                        </li>
+                    </ul>
+                </div> <!--col-->
+
+                <div class="col-sm d-flex itemItem">
+                    <ul class="list-group list-group-flush">
+                        <li class="list-group-item itemTitulo"><a href="#">Para produtores</a></li>
+                        <li class="list-group-item"><a href="#">Soluções</a></li>
+                        <li class="list-group-item"><a href="#">Integrações</a></li>
+                        <li class="list-group-item"><a href="#">Transmissão online</a></li>
+                        <li class="list-group-item"><a href="#">Seja um produtor</a></li>
+                    </ul>
+                </div> <!--col-->
+
+                <div class="col-sm d-flex  itemItem">
+                    <ul class="list-group list-group-flush">
+                        <li class="list-group-item itemTitulo"><a href="#">Categorias</a></li>
+                        <li class="list-group-item"><a href="#">Festas e shows</a></li>
+                        <li class="list-group-item"><a href="#">Teatro e espetaculos</a></li>
+                        <li class="list-group-item"><a href="#">Culinária</a></li>
+                        <li class="list-group-item"><a href="#">Esportes</a></li>
+                        <li class="list-group-item"><a href="#">Infantil</a></li>
+                        <li class="list-group-item"><a href="#">Passeios</a></li>
+                    </ul>
+                </div> <!--col-->
+
+                <div class="col-sm d-flex itemItem">
+
+                    <ul class="list-group list-group-flush">
+                        <li class="list-group-item itemTitulo">Compre pelo App</li>
+                        <li class="list-group-item itemTitulo">
+                            <a href="#"><img id="googlePlay" src="public/images/googlePlay.png" alt="googlePlay"> </a>
+                            <a href="#"> <img id="appStore" src="public/images/appStore.png" alt="appStore"> </a>
+                        </li>
+                        <p class="list-group-item copyID">Copyright © 2023. Todos os direitos reservados.</p>
+                    </ul>
+                </div><!-- col -->
+
+            </div><!-- row -->
+        </div><!-- container -->
+    </footer>
+    <div>
+
+    </div>
+
+
+
+
+
+    <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js"
+        integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
+        crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-Fy6S3B9q64WdZWQUiU+q4/2Lc9npb8tCaSX9FK7E8HnRr0Jz8D6OP9dO5Vg3Q9ct"
+        crossorigin="anonymous"></script>
+
+        <!-- Bootstrap scripts -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous">
+    </script>
+</body>
+
+</html>
