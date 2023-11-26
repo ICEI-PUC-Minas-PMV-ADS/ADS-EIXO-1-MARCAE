@@ -1,0 +1,189 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(255, 255, 255);
+}
+
+.formLogo {
+    max-width: 400px;
+    margin: 0 auto;
+    margin-top: 90px;
+    margin-bottom: 50px;
+
+}
+
+#logo2 {
+    margin-bottom: 16px;
+}
+
+.formLogo h3 {
+    text-align: center;
+    font-weight: 700;
+    font-size: 20px;
+    color: black;
+    font-family: 'Inter', sans-serif;
+    margin-bottom: 6px;
+}
+
+.formLogo input[type="text"],
+.formLogo input[type="password"] {
+    width: 100%;
+    height: 40px;
+    border: 1px solid #ccc;
+    padding-left: 10px;
+    margin: 13px 0;
+}
+
+.input-container {
+    position: relative;
+    display: inline-block;
+}
+
+.input-container input {
+    padding-right: center;
+}
+
+.input-container i.toggle-password {
+    font-size: 20px;
+    cursor: pointer;
+    position: absolute;
+    right: 13px;
+    top: 10%;
+    transform: translateY(-50%);
+    color: #908888;
+}
+
+.formLogo input[type="submit"] {
+    width: 100%;
+    height: 40px;
+    cursor: pointer;
+    background: #FAB638;
+    color: white;
+    border: 0;
+    border-radius: 20px;
+    margin-bottom: 22px;
+}
+
+a.link-esqueci {
+    text-decoration: none;
+    color: #0077cc;
+    font-weight: medium;
+}
+
+a.link-esqueci:hover {
+    text-decoration: underline;
+    color: #FAB638;
+}
+
+.formLogo {
+    text-align: center;
+}
+
+#borda {
+    color: rgb(0, 0, 0);
+    border: 1px solid;
+    border-radius: 30px;
+    padding: 30px;
+    padding-top: 45px;
+    padding-bottom: 50px;
+}
+
+#inscreva {
+    display: flex;
+    margin-left: 65px;
+    margin-top: 50px;
+    margin-bottom: 1px;
+    padding: 0px;
+}
+
+#redes {
+    margin-bottom: 1px;
+    margin-top: 20px;
+}
+
+.social {
+    font-size: 35px;
+    margin-left: 10px;
+    cursor: pointer;
+}
+
+.social2 {
+    font-size: 35px;
+    margin-left: 10px;
+    cursor: pointer;
+}
+
+a.link-esqueci:hover {
+    text-decoration: underline;
+    color: #FAB638;
+}
+
+/* Adicione isso ao seu CSS existente ou crie um arquivo separado */
+
+.formRecuperarSenha {
+    max-width: 400px;
+    margin: 0 auto;
+    margin-top: 90px;
+    margin-bottom: 50px;
+}
+
+#bordaRecuperarSenha {
+    color: rgb(0, 0, 0);
+    border: 1px solid;
+    border-radius: 30px;
+    padding: 30px;
+    padding-top: 45px;
+    padding-bottom: 50px;
+}
+
+#logoRecuperarSenha {
+    margin-bottom: 16px;
+    margin: auto; 
+    display: block; 
+}
+
+.formRecuperarSenha h3 {
+    text-align: center;
+    font-weight: 700;
+    font-size: 20px;
+    color: black;
+    font-family: 'Inter', sans-serif;
+    margin-bottom: 20px;
+}
+
+.formRecuperarSenha input[type="text"] {
+    width: 100%;
+    height: 40px;
+    border: 1px solid #ccc;
+    padding-left: 10px;
+    margin: 13px 0;
+}
+
+.formRecuperarSenha input[type="button"] {
+    width: 100%;
+    height: 40px;
+    cursor: pointer;
+    background: #FAB638;
+    color: white;
+    border: 0;
+    border-radius: 20px;
+    margin-bottom: 22px;
+}
+
+.link-esqueci {
+    text-decoration: none;
+    color: #0077cc;
+    font-weight: medium;
+    cursor: pointer;
+}
+
+.link-esqueci:hover {
+    text-decoration: underline;
+    color: #FAB638;
+}
