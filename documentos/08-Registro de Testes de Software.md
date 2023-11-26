@@ -62,6 +62,39 @@ Os resultados dos testes funcionais realizados na aplicação são descritos a s
 6. Enviar Feedback.
 ![Captura de tela 2023-11-25 174618](https://github.com/ICEI-PUC-Minas-PMV-ADS/ADS-EIXO-1-MARCAE/assets/146504095/39d50ce1-246c-4053-bb54-5f0e2279d1ea)
 
+|Caso de Teste    | CT-3 - Tela de Login |
+|:---|:---|
+| Resultados obtidos | 1. Após clicar no botão "Login" na tela inicial, o usuário é direcionado para preencher seus dados pessoais.|
+| |2. Depois de preencher os dados corretamentes, deverá clicar em "Login" para acessar sua conta.|
+| |3. Se o usuário não lembrar sua senha, poderá clicar em "Esqueci minha senha" e ser redirecionado para uma outra página, digitando seu e-mail de recuperação.|
+| |4. Caso o usuário não tiver cadastro, basta clicar na opção "Inscreva-se".|
+| Responsável pela execução do caso de Teste | Nicholas Deway |
+
+1. Tela de login.
+![Etapa 1](https://github.com/ICEI-PUC-Minas-PMV-ADS/ADS-EIXO-1-MARCAE/assets/65633444/a4a98c14-3c4f-470a-98f6-f0c33d8038fb)
+
+2. Tela de login preenchido com os dados do usuário.
+![Etapa 2](https://github.com/ICEI-PUC-Minas-PMV-ADS/ADS-EIXO-1-MARCAE/assets/65633444/92b94d10-24a6-4ec7-9aa5-978f3c466505)
+
+3. Tela de login com acesso ao visualizar senha digitada.
+![Etapa 3](https://github.com/ICEI-PUC-Minas-PMV-ADS/ADS-EIXO-1-MARCAE/assets/65633444/ad4b15cd-0f89-49a8-8cd1-4b2fc9fe6572)
+
+4. Login efetuado.
+![Etapa 4](https://github.com/ICEI-PUC-Minas-PMV-ADS/ADS-EIXO-1-MARCAE/assets/65633444/049ade58-9ed1-4682-8274-02536b34bd53)
+
+5. Ação ao clicar em "Esqueci minha senha".
+![Etapa 5](https://github.com/ICEI-PUC-Minas-PMV-ADS/ADS-EIXO-1-MARCAE/assets/65633444/e8067cce-0c5f-4589-b992-1a537f1cf36b)
+
+6. Código de recuperação enviado.
+![Etapa 6](https://github.com/ICEI-PUC-Minas-PMV-ADS/ADS-EIXO-1-MARCAE/assets/65633444/83b37646-6e81-4ee7-9fe9-e2a36148532c)
+
+
+
+
+
+
+
+
 
 
 
