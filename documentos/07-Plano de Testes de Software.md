@@ -64,13 +64,12 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
 | Requisitos Associados | RF-01 |
 | Objetivo do Teste | Permitir que o usuario acesse sua conta já criada. |
 | Passos | 1. Na tela inicial (homepage) clique em login e será redirecionado a tela para acessar sua conta;|
-| | 2. Preencha os campos obrigatórios como e-mail e senha, logo depois clique em "Login";|
+| |2. Preencha os campos obrigatórios como e-mail e senha, logo depois clique em "Login";|
 | |3. Caso sua conta foi criada pelo Google ou Facebook, fica disponibilizado você acessar por essas redes;|
 | |4. Caso o login tenha ocorrido com êxito, será redirecionado para a página inicial (homepage).|
 | Critérios de êxito | # Página inicial conter o botão "Login";  |
 | |# Página de "Inscrever-se" conter o botão "Login";|
-| | # Dois botões, para login com Facebook ou Google. E direcionar para formulário diferentes;|
-| | # Caso o usuário não informe algum campo obrigatório, não permitir conclusão do cadastro.|
+| |# Dois botões, para login com Facebook ou Google. E direcionar para formulário diferentes;|
 | Responsável pela elaborar do caso de teste | Nicholas Deway |
  
 > **Links Úteis**:
