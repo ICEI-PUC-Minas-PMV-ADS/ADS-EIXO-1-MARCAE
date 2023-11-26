@@ -146,6 +146,37 @@ Os resultados dos testes funcionais realizados na aplicação são descritos a s
 ![Screenshot_5](https://github.com/ICEI-PUC-Minas-PMV-ADS/ADS-EIXO-1-MARCAE/assets/65633444/4137fe28-1931-4907-bf23-c9f7c537595a)
 
 
+|Caso de Teste    | CT-5 - Seleção, compra de ingressos, reponsividade |
+|:---|:---|
+| Requisitos Associados |RF-08, RF-11 |
+| Objetivo do Teste |PáginaCompra - Permitir que o usuário visualize e selecione ingressos e acesse em qualquer dispositivo|
+| Passos | 1. Na tela inicial (homepage) selecione o evento que deseja participar;|
+| Êxito |2. Após visualizar as informaçoes na página de eventos clique no botão "Comprar ingressos"|
+| Êxito |3. Selecione os ingressos desejados na e a quantidade através dos botões de incremento e decremento;|
+| Êxito |4. Botão de incremento - incrimenta +1 no número de ingresso ao clicar|
+| Êxito |5. Botão de decremento - decrementa +1 no número de ingresso ao clicar|
+| Êxito |6. Atualiza o valor total do ingresso ao decrementar o número de ingressos|
+| Êxito |7. Atualiza o valor total do ingresso ao incrementar o número de ingressos|
+|Sem êxito |8. No botão de seleção em cascata, escolha uma forma de pagamento;|
+| Êxito |9.1 Cartão de crédito|
+| Êxito |9.2 Preencha os campos solicitados com as informações do seu cartão;|
+| Êxito |10. Preencha os campos da seção "Envio do ingresso" referente a onde deseja receber o mesmo;|
+| Êxito |10. Atualiza o valor total da compra dependendo da quantidade de ingressos selecionados|
+| Sem êxito |11. Clique no botão "Confirmar e pagar" para finalizar a compra|
+| Êxito |12 responsividade para dispositivos mobile|
+| Responsável pela elaborar do caso de teste | Riniel Rodrigo |
+
+5. Página de compras de ingressos e suas funcionalidades (Tablet).
+![mobile (1)](https://github.com/ICEI-PUC-Minas-PMV-ADS/ADS-EIXO-1-MARCAE/assets/80684745/8e51967e-aacc-4fe4-907f-abfaf2f0e863)
+
+6. Página de compras de ingressos (celular).
+![mobile](https://github.com/ICEI-PUC-Minas-PMV-ADS/ADS-EIXO-1-MARCAE/assets/80684745/cffbd9a0-fc42-416a-a8fc-cd87cbc4798d)
+
+7. Página de compras de ingressos (Desktop).
+![mobile (2)](https://github.com/ICEI-PUC-Minas-PMV-ADS/ADS-EIXO-1-MARCAE/assets/80684745/706b87b4-64bd-422c-9dc0-b3535463eebe)
+
+
+
 
 
 
