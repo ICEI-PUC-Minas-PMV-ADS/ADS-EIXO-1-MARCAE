@@ -38,23 +38,37 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
 || # Ao clicar no botão "Imprimir Ingresso", mostrar alerta correspondente a escolha que foi impressa.|
 | Responsável pela elaboração do caso de Teste | Rogério Rodrigues Mendes |
 
-|Caso de Teste    | CT-3 - registre-se |
+|Caso de Teste    | CT-3 - Registre-se |
 |:---|:---|
 | Requisitos Associados | RF-02 |
 | Objetivo do Teste | Permitir que o usuario cadastre sua conta. |
-| Passos | 1. na tela de login clique em inscreva-se, sera redirecionado a tela de registro.|
-| | 2. preencha todos os campos obrigatorios e clique no botao "finalizar";|
-| |3. ou se preferir, temos a opção de registrar pelo google e facebook;|
+| Passos | 1. Na tela de login clique em inscreva-se, sera redirecionado a tela de registro.|
+| | 2. Preencha todos os campos obrigatorios e clique no botao "finalizar";|
+| |3. Ou se preferir, temos a opção de registrar pelo google e facebook;|
 | |4. Caso o cadastro tenha ocorrido com êxito, será direcionado para a página inicial.|
 | Critérios de êxito | # Página Inicial conter o botão "Criar Conta";  |
 | |# Página de login conter o botão "inscreva-se".|
-| | # dois botões, para cadastro com facebook ou google. E direcionar para formulário diferentes.|
+| | # Dois botões, para cadastro com facebook ou google. E direcionar para formulário diferentes.|
 | | # Caso o usuário não informe algum campo obrigatório, não permitir conclusão do cadastro.|
 | Responsável pela elaborar do caso de Teste | João Victor Oliveira |
+
+|Caso de Teste    | CT-4 - Login |
+|:---|:---|
+| Requisitos Associados | RF-01 |
+| Objetivo do Teste | Permitir que o usuario acesse sua conta já criada. |
+| Passos | 1. Na tela inicial (homepage) clique em login e será redirecionado a tela para acessar sua conta.|
+| | 2. Preencha os campos obrigatórios como e-mail e senha, logo depois clique em "Login";|
+| |3. Caso sua conta foi criada pelo Google ou Facebook, fica disponibilizado você acessar por essas redes;|
+| |4. Caso o login tenha ocorrido com êxito, será redirecionado para a página inicial (homepage).|
+| Critérios de êxito | # Página inicial conter o botão "Login";  |
+| |# Página de "Inscrever-se" conter o botão "Login".|
+| | # Dois botões, para login com Facebook ou Google. E direcionar para formulário diferentes.|
+| | # Caso o usuário não informe algum campo obrigatório, não permitir conclusão do cadastro.|
+| Responsável pela elaborar do caso de teste | Nicholas Deway |
  
 > **Links Úteis**:
 > - [IBM - Criação e Geração de Planos de Teste](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
-> -  [Teste de Software: Conceitos e tipos de testes](https://blog.onedaytesting.com.br/teste-de-software/)
+> - [Teste de Software: Conceitos e tipos de testes](https://blog.onedaytesting.com.br/teste-de-software/)
 > - [Criação e Geração de Planos de Teste de Software](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
 > - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
 > - [UX Tools](https://uxdesign.cc/ux-user-research-and-user-testing-tools-2d339d379dc7)
