@@ -1,0 +1,104 @@
+.formC{
+    height:180px;
+    max-width:800px;
+}
+
+.formCC{
+    display: flex;
+    justify-content: center;
+}
+.rowY{
+    max-width:900px;
+    margin-top:50px;
+    margin-left:50px;
+    display: flex;
+    justify-content:center;
+
+}
+.secao{
+    display: flex;
+    flex-direction: row;
+    justify-content: center !important;
+}
+
+.container{
+    padding:50px;
+}
+
+h1{
+    font-size:23px;
+    color: #5176A2;
+}
+
+h3{
+    font-size:17px;
+    color: #5176A2;
+}
+
+.sec1 p{
+    font-size:14px;
+    font-weight:500;
+    color: #000;
+}
+
+.eventoSelecionado{
+align-items: center;
+}
+
+.eventoSelecionado .img-fluid{
+    width:200px;
+    height:150px;
+
+}
+
+.eventoSelecionado .descricaoEvento p{
+    margin-left:15px;
+}
+
+.eventoSelecionado p{
+    font-weight: 700;
+    color: #262d33c9;
+    font-size: 12px;
+}
+
+.eventoSelecionado .tituloEvento{
+    color: #5176A2;
+    font-size: 20px;
+}
+
+.containerUp{
+    padding-top:20px ;
+    padding-bottom:0;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.imgDiv{
+    display:flex;
+    justify-content:center;
+}
+
+.containerUp img{
+    width:60px;
+    height:60px;
+}
+
+.sec1{
+    padding-bottom:0;
+}
+
+.container{
+    padding-bottom:0 !important;
+}
+
+.containerUp input{
+    text-align: center;
+font-size:15px;
+ max-width:450px;
+ height:30px;
+ 
+}
+
+
+
