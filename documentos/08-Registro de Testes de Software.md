@@ -124,6 +124,36 @@ Os resultados dos testes funcionais realizados na aplicação são descritos a s
 3. Opções de login.
 ![att](https://github.com/ICEI-PUC-Minas-PMV-ADS/ADS-EIXO-1-MARCAE/assets/144181666/25d981e5-a91b-4c94-a97b-1f9766d1fa7d)
 
+|Caso de Teste    | CT-5 - Tela inicial |
+|:---|:---|
+| Resultados obtidos | 1. Tela inicial sem login.|
+| |2. Tela inicial com interação no botão de login.|
+| |3. Tela inicial com interação no botão de criar sua conta.|
+| |4. Tela inicial com interação no botão de "Ver detalhes" referente aos eventos destaques.|
+| |5. Tela inicial com interação no botão de "Seja um produtor".|
+| Responsável pela execução do caso de Teste | Nicholas Deway |
+
+1. Eventos destaques.
+![Screenshot_1](https://github.com/ICEI-PUC-Minas-PMV-ADS/ADS-EIXO-1-MARCAE/assets/65633444/18b23082-590f-4b56-9bca-2252f835e9f3)
+
+2. Eventos mais buscados.
+![Screenshot_2](https://github.com/ICEI-PUC-Minas-PMV-ADS/ADS-EIXO-1-MARCAE/assets/65633444/a857d772-f5f2-4250-928a-4a85181d86d8)
+
+3. Categoria de festas e shows.
+![Screenshot_3](https://github.com/ICEI-PUC-Minas-PMV-ADS/ADS-EIXO-1-MARCAE/assets/65633444/ba33c76b-6f64-4923-9975-4e58b32de246)
+
+4. Filtrar eventos pelos estados.
+![Screenshot_4](https://github.com/ICEI-PUC-Minas-PMV-ADS/ADS-EIXO-1-MARCAE/assets/65633444/9ad5eeaf-3076-44df-95fe-220d7c565987)
+
+5. Feedback do público, referente à eventos passados.
+![Screenshot_5](https://github.com/ICEI-PUC-Minas-PMV-ADS/ADS-EIXO-1-MARCAE/assets/65633444/4137fe28-1931-4907-bf23-c9f7c537595a)
+
+
+
+
+
+
+
 
 
 
