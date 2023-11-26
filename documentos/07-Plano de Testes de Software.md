@@ -6,7 +6,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
 
 |Caso de Teste    | CT-1 - Cadastro de Eventos |
 |:---|:---|
-| Requisitos Associados | RF-02 |
+| Requisitos Associados | RF-10 |
 | Objetivo do Teste | Permitir o cadastro de novos eventos presenciais ou virtuais. |
 | Passos | 1. Clique no botão "Criar Evento" presente na tela inicial no canto superior direito.|
 | | 2. Escolha o Tipo de Evento que deseja cadastrar;|
@@ -37,6 +37,19 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
 || # Ao clicar no botão "Tipo de Ingresso", permitir a escolha na lista suspensa.|
 || # Ao clicar no botão "Imprimir Ingresso", mostrar alerta correspondente a escolha que foi impressa.|
 | Responsável pela elaboração do caso de Teste | Rogério Rodrigues Mendes |
+
+|Caso de Teste    | CT-3 - registre-se |
+|:---|:---|
+| Requisitos Associados | RF-02 |
+| Objetivo do Teste | Permitir que o usuario cadastre sua conta. |
+| Passos | 1. na tela de login clique em inscreva-se, sera redirecionado a tela de registro.|
+| | 2. preencha todos os campos obrigatorios e clique no botao "finalizar";|
+| |3. ou se preferir, temos a opção de registrar pelo google e facebook;|
+| |4. Caso o cadastro tenha ocorrido com êxito, será direcionado para a página inicial.|
+| Critérios de êxito | # Página Inicial conter o botão "Criar Conta";  |
+| | # dois botões, para cadastro com facebook ou google. E direcionar para formulário diferentes.|
+| | # Caso o usuário não informe algum campo não obrigatório, não permitir conclusão do cadastro.|
+| Responsável pela elaborar do caso de Teste | João Victor Oliveira |
  
 > **Links Úteis**:
 > - [IBM - Criação e Geração de Planos de Teste](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
