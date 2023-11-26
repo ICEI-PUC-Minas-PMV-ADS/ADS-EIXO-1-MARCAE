@@ -36,13 +36,16 @@ Os resultados dos testes funcionais realizados na aplicação são descritos a s
 
 |Caso de Teste    | CT-2 - Tela de Ingressos |
 |:---|:---|
-| Resultados obtidos | 1. Após clicar no botão "Ativo", o usuário é direcionado para a os ingressos comprados.|
+| Resultados obtidos | 1. Após clicar no botão "Ativo", o usuário é direcionado para os ingressos comprados.|
 | |2. Após clicar no botão "Imprimir Ingresso", o usuário é direcionado a escolha do tipo de ingresso.|
 | |3. Escolha o tipo de ingresso.|
 | |4. Após a escolha do tipo de ingresso, o  usuário tem a possibilidade de imprimir o ingresso selecionado.|
-| |5. Após clicar no botão "Encerrado", o usuário visualizará o histórico de ingressos encerrados.|
-| |6.Após digitar o feedback na caixa de texto e clicar no botão "Enviar Feedback", o usuário recebe alerta de "Feedback Enviado".|
-| Responsável pela execução do caso de Teste | Rogério Rodrigues Mendes |
+| |5. Ao clicar no botão "Ver Pedido", o usuario é direcionado a pagina de "Compras" de ingressos.|
+| |6. Após o clique, será direcionado a pagina "Compra" de ingressos.|
+| |7. Ao clicar no botão "Encerrado", o usuário visualiza todos os ingressos encerrados.|
+| |8. Ao clicar no botão "Adicionar Feedback", o usuario é redirecionado a pagina "Feedback".|
+| |9. Após o clique, será direcionado a pagina "Feedback".|
+| Responsável pela elaboração do caso de Teste | Rogério Rodrigues Mendes |
 
 1. Ingresso Ativo.
 ![Captura de tela 2023-11-25 174805](https://github.com/ICEI-PUC-Minas-PMV-ADS/ADS-EIXO-1-MARCAE/assets/146504095/cfacffc5-1b68-4397-894e-9d1e7dcbe3c4)
@@ -56,11 +59,20 @@ Os resultados dos testes funcionais realizados na aplicação são descritos a s
 4. Imprimir Ingresso Selecionado.
 ![Captura de tela 2023-11-25 173947](https://github.com/ICEI-PUC-Minas-PMV-ADS/ADS-EIXO-1-MARCAE/assets/146504095/9f5239d2-cecf-4aab-885b-99c521f10554)
 
-5. Ingresso Encerrado.
-![Captura de tela 2023-11-25 174230](https://github.com/ICEI-PUC-Minas-PMV-ADS/ADS-EIXO-1-MARCAE/assets/146504095/a857525b-0c41-466b-8184-358ea4d760d0)
+5. Ver Pedido.
+![Captura de tela 2023-11-26 153608](https://github.com/ICEI-PUC-Minas-PMV-ADS/ADS-EIXO-1-MARCAE/assets/146504095/e691547d-e991-4d3f-874e-909266c4b960)
 
-6. Enviar Feedback.
-![Captura de tela 2023-11-25 174618](https://github.com/ICEI-PUC-Minas-PMV-ADS/ADS-EIXO-1-MARCAE/assets/146504095/39d50ce1-246c-4053-bb54-5f0e2279d1ea)
+6. Compra de Ingressos.
+![Captura de tela 2023-11-26 153857](https://github.com/ICEI-PUC-Minas-PMV-ADS/ADS-EIXO-1-MARCAE/assets/146504095/b6483bca-f4ad-4ada-b528-b888cd326c3e)
+
+7. Ingresso Encerrado.
+![Captura de tela 2023-11-26 171747](https://github.com/ICEI-PUC-Minas-PMV-ADS/ADS-EIXO-1-MARCAE/assets/146504095/c8a85a44-965f-41ac-a29e-c75d50f71661)
+
+8. Adicionar Feedback.
+![Captura de tela 2023-11-26 171548](https://github.com/ICEI-PUC-Minas-PMV-ADS/ADS-EIXO-1-MARCAE/assets/146504095/34d558c2-833a-439c-bd50-9ba072752269)
+
+9. Enviar Feedback.
+![Captura de tela 2023-11-26 171046](https://github.com/ICEI-PUC-Minas-PMV-ADS/ADS-EIXO-1-MARCAE/assets/146504095/9870ad9f-52c5-4195-824a-11ea01bf3367)
 
 |Caso de Teste    | CT-3 - Tela de Login |
 |:---|:---|
