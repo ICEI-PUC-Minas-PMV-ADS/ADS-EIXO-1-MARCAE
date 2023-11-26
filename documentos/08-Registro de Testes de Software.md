@@ -145,7 +145,7 @@ Os resultados dos testes funcionais realizados na aplicação são descritos a s
 4. Filtrar eventos pelos estados.
 ![Screenshot_4](https://github.com/ICEI-PUC-Minas-PMV-ADS/ADS-EIXO-1-MARCAE/assets/65633444/9ad5eeaf-3076-44df-95fe-220d7c565987)
 
-5. Feedback do público, referente à eventos passados.
+5. Feedback do público, sobre eventos passados.
 ![Screenshot_5](https://github.com/ICEI-PUC-Minas-PMV-ADS/ADS-EIXO-1-MARCAE/assets/65633444/4137fe28-1931-4907-bf23-c9f7c537595a)
 
 
