@@ -69,7 +69,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
 | |4. Caso o login tenha ocorrido com êxito, será redirecionado para a página inicial (homepage).|
 | Critérios de êxito | # Página inicial conter o botão "Login";  |
 | |# Página de "Inscrever-se" conter o botão "Login";|
-| |# Dois botões, para login com Facebook ou Google. E direcionar para formulário diferentes;|
+| |# Dois botões, para login com Facebook ou Google. E direcionar para formulário diferentes.|
 | Responsável pela elaborar do caso de teste | Nicholas Deway |
  
 > **Links Úteis**:
