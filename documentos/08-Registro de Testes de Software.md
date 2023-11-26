@@ -62,16 +62,13 @@ Os resultados dos testes funcionais realizados na aplicação são descritos a s
 5. Ver Pedido.
 ![Captura de tela 2023-11-26 153608](https://github.com/ICEI-PUC-Minas-PMV-ADS/ADS-EIXO-1-MARCAE/assets/146504095/e691547d-e991-4d3f-874e-909266c4b960)
 
-6. Compra de Ingressos.
-![Captura de tela 2023-11-26 153857](https://github.com/ICEI-PUC-Minas-PMV-ADS/ADS-EIXO-1-MARCAE/assets/146504095/b6483bca-f4ad-4ada-b528-b888cd326c3e)
-
-7. Ingresso Encerrado.
+6. Ingresso Encerrado.
 ![Captura de tela 2023-11-26 171747](https://github.com/ICEI-PUC-Minas-PMV-ADS/ADS-EIXO-1-MARCAE/assets/146504095/c8a85a44-965f-41ac-a29e-c75d50f71661)
 
-8. Adicionar Feedback.
+7. Adicionar Feedback.
 ![Captura de tela 2023-11-26 171548](https://github.com/ICEI-PUC-Minas-PMV-ADS/ADS-EIXO-1-MARCAE/assets/146504095/34d558c2-833a-439c-bd50-9ba072752269)
 
-9. Enviar Feedback.
+8. Enviar Feedback.
 ![Captura de tela 2023-11-26 171046](https://github.com/ICEI-PUC-Minas-PMV-ADS/ADS-EIXO-1-MARCAE/assets/146504095/9870ad9f-52c5-4195-824a-11ea01bf3367)
 
 |Caso de Teste    | CT-3 - Tela de Login |
