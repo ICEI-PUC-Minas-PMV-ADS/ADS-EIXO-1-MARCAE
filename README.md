@@ -38,7 +38,7 @@ O projeto visa criar um site que facilite a promoção de eventos pagos ou gratu
 
 # Hospedagem
 
-* Insira o endereço eletrônico público de acesso ao conteúdo publicado. 
+* https://riniel-rodrigo.github.io/Marcae-teste/index.html
 
 # Código-Fonte
 
