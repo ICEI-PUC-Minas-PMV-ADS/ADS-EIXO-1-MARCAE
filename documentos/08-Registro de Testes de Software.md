@@ -139,7 +139,7 @@ Os resultados dos testes funcionais realizados na aplicação são descritos a s
 2. Eventos mais buscados.
 ![Screenshot_2](https://github.com/ICEI-PUC-Minas-PMV-ADS/ADS-EIXO-1-MARCAE/assets/65633444/a857d772-f5f2-4250-928a-4a85181d86d8)
 
-3. Categoria de festas e shows.
+3. Categoria de festas e shows e logo abaixo uma vasta variedade de filtros do público.
 ![Screenshot_3](https://github.com/ICEI-PUC-Minas-PMV-ADS/ADS-EIXO-1-MARCAE/assets/65633444/ba33c76b-6f64-4923-9975-4e58b32de246)
 
 4. Filtrar eventos pelos estados.
