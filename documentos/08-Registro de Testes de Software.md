@@ -103,10 +103,10 @@ Os resultados dos testes funcionais realizados na aplicação são descritos a s
 |Caso de Teste    | CT-4 - cadastro usuario |
 |:---|:---|
 | Resultados obtidos | 1. Após clicar no botão "criar conta" na tela inicial, o usuário é direcionado para a tela de cadastro.|
-| |1.2 tela de cadastro
+| |1.2 Tela de cadastro
 | |2. Depois de preencher os dados corretamentes, deverá clicar em "finalizar" para criar sua conta.|
-| |2.2 caso não preencha todos os campos não será possivel o cadastro
-| |3. o usurio poderá se cadastrar se preferir com facebook ou google.|
+| |2.2 Caso não preencha todos os campos não será possível o cadastro.|
+| |3. O usuário poderá se cadastrar se preferir com Facebook ou Google.|
 | Responsável pela execução do caso de Teste | João Victor Oliveira |
 
 1.tela inicial
