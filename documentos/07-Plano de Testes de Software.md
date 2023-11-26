@@ -49,7 +49,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
 | Critérios de êxito | # Página Inicial conter o botão "Criar Conta";  |
 | |# Página de login conter o botão "inscreva-se".|
 | | # dois botões, para cadastro com facebook ou google. E direcionar para formulário diferentes.|
-| | # Caso o usuário não informe algum campo não obrigatório, não permitir conclusão do cadastro.|
+| | # Caso o usuário não informe algum campo obrigatório, não permitir conclusão do cadastro.|
 | Responsável pela elaborar do caso de Teste | João Victor Oliveira |
  
 > **Links Úteis**:
