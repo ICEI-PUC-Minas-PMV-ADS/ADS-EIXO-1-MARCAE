@@ -1,0 +1,212 @@
+.row{
+  padding-right:25px;
+}
+
+.MenuColunm svg {
+  color: #FAB638;
+  cursor: pointer;
+}
+
+/* Coluna do menu dropdown, sera visivel apenas em mobile */
+.dropdown-toggle::after {
+  content: none;
+}
+
+.botaoDrop,
+.botaoDrop svg {
+  color: #5e5959;
+}
+
+.botaoDrop {
+  padding: 2px 6px 2px 6px;
+  background-color: #ffffff29;
+  border-color: #5e5959;
+}
+
+.botaoDrop svg:hover {
+  color: #5e5959;
+}
+
+.botaoDrop:hover {
+  background-color: rgba(250, 182, 56, 0.121);
+}
+
+.botaoDrop:active {
+  background-color: #fab6383f;
+}
+
+.botaoDrop:focus {
+  background-color: #fab6383f;
+}
+
+.btn-check:focus+.btn-secondary,
+.btn-secondary:focus {
+  box-shadow: none;
+}
+
+.btn-check:active+.btn-secondary:focus,
+.btn-check:checked+.btn-secondary:focus,
+.btn-secondary.active:focus,
+.btn-secondary:active:focus,
+.show>.btn-secondary.dropdown-toggle:focus {
+  box-shadow: none;
+}
+
+.MenuColunm5 {
+  display: none;
+}
+
+/* ------------------------------------------------ */
+
+.row1 {
+  padding-right:0;
+}
+
+.MenuColunm {
+  font-size: 14px;
+  white-space: nowrap;
+}
+
+/* Coluna 1 'logo' */
+
+.linha1 {
+  width: 2px;
+  height: 45px;
+  background: #fab63872;
+  margin-top: 13px;
+}
+
+#logo {
+  max-width: 200px;
+  height: auto;
+}
+
+/* Coluna 2 'lista: login, criar conta...' */
+.nav-link {
+  color: #FAB638;
+  font-size: 14px;
+  font-weight: 550;
+  font-size: 14px;
+  white-space: nowrap;
+}
+
+.navbar-expand .navbar-nav .nav-link {
+  padding-right: .9rem;
+  padding-left: .9rem;
+}
+
+.nav-link:focus,
+.nav-link:hover {
+  color: #5176A2;
+}
+
+/* Coluna 3 'local' */
+.MenuColunm3 {
+  font-size: 13px;
+  color: #5e5959;
+  font-weight: 500;
+}
+
+.svg-container {
+  display: block;
+  margin-left: 10px;
+}
+
+#crosshair {
+  margin-right: 10px;
+}
+
+/* Coluna 4 'barra de pesquisa' */
+.inputContainer {
+  width:200px;
+  height: 34px;
+  display: flex;
+  align-items: center;
+  border: 1px solid #fab638df;
+  border-radius: 8px;
+  background-color: #fff;
+  box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.2);
+  margin-right:10px;
+}
+
+.inp {
+  border: none;
+  flex: 1;
+  margin: 8px;
+  padding: 0;
+  outline: none;
+}
+
+#lupaIcon {
+  width: 20px;
+  height: 20px;
+  margin-right: 8px;
+}
+
+::placeholder {
+  font-size: 13px;
+}
+
+
+.form-control:focus {
+  box-shadow:none !important;
+}
+
+.inputContainer,
+svg:hover {
+  color: #5176A2;
+}
+
+.inputContainer:hover {
+  color: #5176A2;
+  border-color: #5176A2;
+}
+
+/* ----------linha divisoria-------- */
+.linha2 {
+  height: 0.100px;
+  background: rgba(239, 13, 13, 0.1);
+  margin-top: 2px;
+}
+/* ----------medias-------- */
+@media (max-width: 991px) {
+
+  .inputContainer {
+    margin-left:20px;
+  }
+
+  .navPesquisar .form-inline,
+  .form-control,
+  .inputContainer {
+    width: 100%;
+  }
+
+}
+
+@media (max-width: 575px) {
+  .MenuColunm1 {
+    order: -3;
+  }
+
+  .MenuColunm2 {
+    display: none;
+  }
+
+  .MenuColunm3 {
+    display: none;
+  }
+
+  .MenuColunm4 {
+    order: -1;
+  }
+
+  .MenuColunm5 {
+    order: -2;
+    display: grid;
+    justify-content: end;
+  }
+
+  .dropdownX {
+    margin-right: 20px;
+  }
+}

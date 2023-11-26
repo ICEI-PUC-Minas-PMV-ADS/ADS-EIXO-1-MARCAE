@@ -1,0 +1,500 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+  
+  .row {
+    width: 100%;
+  }
+  
+  .row2 {
+    padding-right: 0;
+  }
+  
+  /* CONTAINER 2 */
+  
+  .BannerEvento2 {
+    display: none;
+  }
+  
+  .evt {
+    padding: 0px 1vw 0px 1vw;
+    align-items: center;
+  }
+  
+  .container-fluid {
+    margin: 0;
+    padding: 0;
+  }
+  
+  .bcgIMG {
+    padding: 0;
+  }
+  
+  .BannerEvento {
+    border-radius: 5px;
+    margin-top: 65px;
+    width: 90%;
+    height: 700px;
+    box-sizing: 0;
+    min-width: 500px;
+  }
+  
+  h3 {
+    font-size: 22px;
+    color: #5176a2;
+    font-weight: 600;
+  }
+  
+  .tituloEvento {
+    margin-top: 150px;
+  }
+  
+  .tituloEvt p {
+    color: #5176a2;
+    font-size: 15px;
+  }
+  
+  /* table seleção de ingressos */
+  
+  .table {
+    border-radius: 5px;
+    box-shadow: 0.5px 0.5px 0.5px rgba(0, 0, 0, 0.2);
+    background-color: rgba(250, 182, 56, 0.088);
+  
+    /* background-color: rgba(250, 182, 56, 0.088); */
+  
+    min-width: 400px;
+  }
+  
+  .table-dark {
+    --bs-table-bg: rgba(250, 182, 56, 0);
+  
+    color: #2c3034;
+    border-color: #373b3e;
+  }
+  
+  table p {
+    margin: 0;
+  }
+  
+  .addIngreso {
+    width: 100%;
+    height: 44px;
+    border: 1px solid #d9dadb;
+    border-radius: 20px;
+  }
+  
+  .addIngreso:hover {
+    border-color: #5176a2;
+  }
+  
+  .quantidadeButton {
+    border: none;
+    background: none;
+    font-size: 30px;
+    color: #bcbfc2;
+  }
+  
+  .quantidadeButton:hover {
+    color: #5176a2;
+  }
+  
+  .addIngreso {
+    margin-top: 7px;
+  }
+  
+  .addBotao {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+  }
+  
+  .columTitulo {
+    color: #5176a2;
+    font-weight: 500;
+  }
+  
+  tbody,
+  td,
+  tfoot,
+  th,
+  thead,
+  tr {
+    border-color: rgba(0, 0, 0, 0.165);
+    border-style: solid;
+    border-width: 0;
+  }
+  
+  td p {
+    margin-top: 18px;
+  }
+  
+  .descricaoIngresso {
+    font-size: 0.8rem;
+    font-weight: 400;
+    color: #545556;
+  }
+  
+  /* forma de pagamento botao */
+  .paymentForm {
+    margin-top: 20px;
+  }
+  
+  .paymentForm label {
+    padding-left: 10px;
+  }
+  
+  .paymentForm select{
+    font-size: 15px;
+    padding: 10px;
+    border: 1px solid #fab63870;
+    border-radius: 100px;
+    background-color: #fff;
+    color: #333;
+    width: 200px;
+    font-weight: 500;
+  }
+  
+  .paymentForm select:focus-visible {
+    outline-color: #fab63870;
+  }
+  
+  .paymentForm option {
+    font-size: 15px;
+    background-color: #fff;
+    color: #333;
+    font-weight: 500;
+  }
+  
+  .paymentForm select option:checked {
+    background-color: #f0f0f0;
+    color: #5176a2;
+    font-weight: bolder;
+  }
+  
+  .paymentForm label {
+    color: #5176a2;
+    font-size: 16px;
+    font-weight: 500;
+    padding-right: 10px;
+  }
+  
+  /* CONTAINER 3 */
+  
+  /* .colunaPagamento {
+    margin-left: 50px;
+  } */
+  
+  .addCartao p {
+    font-weight: 500;
+    font-size: 17px;
+  }
+  
+  .addCartao label,
+  .EnvioIng p {
+    color: #898c97dd;
+    font-weight: 500;
+    font-size: 14px;
+  }
+  
+  .form-control:focus {
+    color: #495057;
+    background-color: #fff;
+    border-color: #fab63870;
+    outline: 0;
+    box-shadow: 0 0 0 0.1rem #fab63832;
+  }
+  
+  .dc {
+    width: 100%;
+  }
+  
+  .dc2 {
+    margin-left: 20px;
+  }
+  
+  .dataCVV {
+    display: flex;
+    justify-content: start;
+    justify-content: space-between;
+  }
+  
+  .dataCVV input,
+  .addCartao input {
+    margin-bottom: 15px;
+    width: 99%;
+  }
+  
+  .cupomRow {
+    padding-right: 0;
+    margin-left: 50px;
+    display: flex;
+    margin-top: 50px;
+    justify-content: space-between;
+  }
+  
+  .h3Cupons {
+    margin-top: 0;
+  }
+  
+  .cupom,
+  .cartaoPresente {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .divAdd {
+    justify-self: end;
+    padding-right: 50px;
+  }
+  
+  .cupomRow span {
+    color: #000;
+    font-size: 14px;
+    font-weight: 500;
+  }
+  
+  .cupomRow p {
+    color: #777e90;
+    font-size: 12px;
+    font-weight: 400;
+    margin-bottom: 0;
+  }
+  
+  .divAdd button {
+    width: 60px;
+    height: 40px;
+    border-radius: 100px;
+    font-size: 14px;
+    color: #5176a2;
+  }
+  
+  .linha3 {
+    margin: 0px 20px 0px 20px;
+    width: 1px;
+    height: 50px;
+    background: rgba(0, 0, 0, 0.1);
+  }
+
+  /* ----------------------------- */
+  .colunaDetalhes{
+    align-self: center;
+  }
+
+  .colunaDetalhes h4{
+    font-weight: 500;
+    font-size: 17px;
+    margin-bottom:20px;
+  }
+
+  .totalDefinitivo{
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top:7px;
+    height:40px;
+    border-radius:4px;
+    background-color:rgba(250, 182, 56, 0.152);
+    min-width: none;
+  }
+
+  .totalDefinitivo span{
+    font-weight:600;
+    padding:0px 10px 0px 10px;
+    font-size:15px;
+  }
+
+  
+
+  .ingressoDetail{
+    background-color:white;
+  }
+
+  .ingressoDetail{
+    background-color:white;
+  }
+
+  .ingressoDetail span{
+    color: #413f3f;
+    font-weight:400 !important;
+  }
+
+ .colunaDetalhes{
+    padding-top:20px;
+    padding-left:100px; 
+ }
+  
+  /* Envio ingresso */
+
+  .rowEnvio{
+    padding-left:50px;
+  }
+  
+  .h33 {
+    margin-top: 50px;
+  }
+  
+  /* .envioRow {
+    margin-left: 50px;
+  } */
+
+  /* confirmar e pagar */
+
+  .confirm{
+    margin-top:50px;
+  }
+
+  .confirm button {
+    width: 190px;
+    height: 40px;
+    border-radius: 100px;
+    font-size: 14px;
+    color: #5176a2;
+    background-color:#fab638b3;
+    font-weight:500;
+    font-size:17px;
+  }
+
+  .confirm2 button{
+    background-color:white;
+  }
+
+  .confirm2 button{
+    width: 165px;
+    height: 40px;
+    font-size:13px;
+  }
+
+  .rowEnvio2 a{
+    text-decoration: none;
+    color: inherit;
+
+  }
+  /* medias */
+  
+  @media (min-width: 991px) {
+    .table {
+      height: 40vh;
+      max-height: 400px;
+    }
+
+    .rowPagamento{
+        padding-left:50px;
+      }
+  }
+  
+  @media (max-width: 991px) {
+
+    .confirm{
+        display:flex;
+        margin-top:40px;
+        margin-left:20px;
+        justify-content:end;
+      }
+
+    .cupom{
+        margin-bottom:15px;
+    }
+
+    .colunaDetalhes h4{
+        margin-bottom:10px;
+      }
+
+    .totalDefinitivo{
+        margin-top:0px;
+      }
+
+      .colunaDetalhes{
+        padding-top:50px;
+        padding-left:0; 
+     }
+
+     .rowEnvio,.rowPagamento{
+      padding-left:30px;
+    }
+    .cupomRow{
+      margin-left: 30px;
+    }
+  
+    .colunaPagamento, .colunaDetalhes{
+      
+      padding-left:12px;
+    }
+  
+    .paymentForm {
+      margin-top: 0px;
+    }
+  
+    .evt {
+      margin-left: 5px;
+    }
+  
+    .tituloEvt {
+      text-align: center;
+    }
+  
+    .tituloEvt p {
+      margin: 0;
+    }
+  
+    .BannerEvento {
+      display: none;
+    }
+  
+    .BannerEvento2 {
+      display: unset;
+      width: 95%;
+    }
+  
+    .bcgIMG {
+      margin-top: 4vw;
+      display: flex;
+      justify-content: center;
+      margin-left: 7px;
+    }
+  
+    .table {
+      margin-top: 20px;
+      max-width: 1100px;
+    }
+    .evt {
+      padding: 0px 19px 0px 25px;
+    }
+  
+    .tituloEvento,
+    h3 {
+      margin-top: 50px;
+    }
+  }
+  
+  @media (max-width: 500px) {
+    .dc2 {
+      margin-left: 0;
+    }
+  
+    .dataCVV {
+      display: block;
+    }
+    .table {
+      font-size: 14px;
+    }
+  
+    table p {
+      font-size: 14px;
+    }
+  }
+  
+  @media (max-width: 550px) {
+    .cupomRow {
+      display: block;
+    }
+  
+    .linha3 {
+      display: none;
+    }
+  }
+  
