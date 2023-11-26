@@ -100,7 +100,7 @@ Os resultados dos testes funcionais realizados na aplicação são descritos a s
 6. Código de recuperação enviado.
 ![Etapa 6](https://github.com/ICEI-PUC-Minas-PMV-ADS/ADS-EIXO-1-MARCAE/assets/65633444/83b37646-6e81-4ee7-9fe9-e2a36148532c)
 
-|Caso de Teste    | CT-4 - cadastro usuario |
+|Caso de Teste    | CT-4 - Cadastro Usuário |
 |:---|:---|
 | Resultados obtidos | 1. Após clicar no botão "criar conta" na tela inicial, o usuário é direcionado para a tela de cadastro.|
 | |1.2 Tela de cadastro
@@ -109,19 +109,19 @@ Os resultados dos testes funcionais realizados na aplicação são descritos a s
 | |3. O usuário poderá se cadastrar se preferir com Facebook ou Google.|
 | Responsável pela execução do caso de Teste | João Victor Oliveira |
 
-1.tela inicial
+1. Tela Inicial
 ![inicial](https://github.com/ICEI-PUC-Minas-PMV-ADS/ADS-EIXO-1-MARCAE/assets/144181666/cfa4de01-e223-4fb0-a5de-2972ac26f8ee)
 
-1.2 tela de cadastro
+1.2 Tela de Cadastro
 ![Captura de tela 2023-11-26 193058](https://github.com/ICEI-PUC-Minas-PMV-ADS/ADS-EIXO-1-MARCAE/assets/144181666/763547e8-ed36-4cb7-acb0-dca591c25c10)
 
-2.Tela de registro preenchido com os dados do usuário
+2. Tela de registro preenchido com os dados do usuário
 ![Captura de tela 2023-11-26 193341](https://github.com/ICEI-PUC-Minas-PMV-ADS/ADS-EIXO-1-MARCAE/assets/144181666/b1e1451a-d5fc-47a8-bee7-bf72f77d7e97)
 
-2.2 aviso
+2.2 Aviso
 ![preencha esse campo](https://github.com/ICEI-PUC-Minas-PMV-ADS/ADS-EIXO-1-MARCAE/assets/144181666/57d82284-9e2d-4f47-a590-7ec2bdaa6439)
 
-3.opção de login.
+3. Opções de login.
 ![att](https://github.com/ICEI-PUC-Minas-PMV-ADS/ADS-EIXO-1-MARCAE/assets/144181666/25d981e5-a91b-4c94-a97b-1f9766d1fa7d)
 
 
