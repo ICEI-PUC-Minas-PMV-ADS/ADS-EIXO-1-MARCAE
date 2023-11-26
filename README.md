@@ -38,7 +38,7 @@ O projeto visa criar um site que facilite a promoção de eventos pagos ou gratu
 
 # Hospedagem
 
-*  O site em HTML/CSS/JS é um projeto estático, logo pode ser utilizado tanto em servidores como em navegadores web. Clique <a href="https://riniel-rodrigo.github.io/Marcae-teste/index.html">aqui</a> para acessá-lo. 
+*  O site em HTML/CSS/JS é um projeto em desenvolvimento. Deixando claro que existe algumas partes não responsivas, podendo estar incompleto em alguns setores. Clique <a href="https://riniel-rodrigo.github.io/Marcae-teste/index.html">aqui</a> para acessá-lo. 
 
 # Código-Fonte
 
