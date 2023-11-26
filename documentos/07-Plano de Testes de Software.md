@@ -71,10 +71,17 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
 | |# Página de "Inscrever-se" conter o botão "Login";|
 | |# Dois botões, para login com Facebook ou Google. E direcionar para formulário diferentes.|
 | Responsável pela elaborar do caso de teste | Nicholas Deway |
- 
-> **Links Úteis**:
-> - [IBM - Criação e Geração de Planos de Teste](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
-> - [Teste de Software: Conceitos e tipos de testes](https://blog.onedaytesting.com.br/teste-de-software/)
-> - [Criação e Geração de Planos de Teste de Software](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
-> - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
-> - [UX Tools](https://uxdesign.cc/ux-user-research-and-user-testing-tools-2d339d379dc7)
+
+|Caso de Teste    | CT-5 - Seleção e compra de ingressos |
+|:---|:---|
+| Requisitos Associados | RF-08, RF-11 |
+| Objetivo do Teste | Permitir que o usuario visualize e seleciona ingressos.|
+| Passos | 1. Na tela inicial (homepage) selecione o evento que deseja participar;|
+| |2. Após visualizar as informaçoes na página de eventos clique no botão "Comprar ingressos"|
+| |3. Selecione os ingressos desejados na e a quantidade através dos botões de incremento e decremento;|
+| |4. Escolha uma forma de pagamento;|
+| |5. Cartão de crédito|
+| |5.1 Preencha os campos solicitados com as informações do seu cartão;|
+| |6. Preencha os campos da seção "Envio do ingresso" referente a onde deseja receber o mesmo;|
+| |6. Clique no botão "Confirmar e pagar" para finalizar a compra|
+| Responsável pela elaborar do caso de teste | Riniel Rodrigo |
