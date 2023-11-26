@@ -75,13 +75,13 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
 |Caso de Teste    | CT-5 - Seleção e compra de ingressos |
 |:---|:---|
 | Requisitos Associados | RF-08, RF-11 |
-| Objetivo do Teste | Permitir que o usuario visualize e seleciona ingressos.|
+| Objetivo do Teste | Permitir que o usuário visualize e selecione ingressos.|
 | Passos | 1. Na tela inicial (homepage) selecione o evento que deseja participar;|
 | |2. Após visualizar as informaçoes na página de eventos clique no botão "Comprar ingressos"|
 | |3. Selecione os ingressos desejados na e a quantidade através dos botões de incremento e decremento;|
 | |4. Escolha uma forma de pagamento;|
-| |5. Cartão de crédito|
-| |5.1 Preencha os campos solicitados com as informações do seu cartão;|
+| |5.1 Cartão de crédito|
+| |5.2 Preencha os campos solicitados com as informações do seu cartão;|
 | |6. Preencha os campos da seção "Envio do ingresso" referente a onde deseja receber o mesmo;|
 | |6. Clique no botão "Confirmar e pagar" para finalizar a compra|
 | Responsável pela elaborar do caso de teste | Riniel Rodrigo |
