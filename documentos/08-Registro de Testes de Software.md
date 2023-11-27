@@ -146,7 +146,7 @@ Os resultados dos testes funcionais realizados na aplicação são descritos a s
 ![Screenshot_5](https://github.com/ICEI-PUC-Minas-PMV-ADS/ADS-EIXO-1-MARCAE/assets/65633444/4137fe28-1931-4907-bf23-c9f7c537595a)
 
 
-|Caso de Teste    | CT-5 - Seleção, compra de ingressos, reponsividade |
+|Caso de Teste    | CT-6 - Seleção, compra de ingressos, reponsividade |
 |:---|:---|
 | Requisitos Associados |RF-08, RF-11 |
 | Objetivo do Teste |PáginaCompra - Permitir que o usuário visualize e selecione ingressos e acesse em qualquer dispositivo|
@@ -195,7 +195,51 @@ Os resultados dos testes funcionais realizados na aplicação são descritos a s
 | Êxito |6. Ao clicar no botão "Voltar", deverá retornar à página anterior;|
 | Responsável pela elaborar do caso de teste | Guilherme Morato |
 
-|Caso de Teste    | CT-7 - tela de feedback |
+
+1.Página do evento
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ADS-EIXO-1-MARCAE/assets/141197033/61d8a8fd-2fd5-4ace-b882-71c4a7ca3b92)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ADS-EIXO-1-MARCAE/assets/141197033/c8d3385f-8845-4512-b4fe-442cd75b203f)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ADS-EIXO-1-MARCAE/assets/141197033/0cc3b958-6072-446c-9a2c-851ee285286a)
+
+
+2.Acesso aos links do texto
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ADS-EIXO-1-MARCAE/assets/141197033/7b37809e-7b7a-4bd6-8927-cb0048469a4a)
+
+
+
+3.Ao clicar no botão "Comprar ingrssos" deverá ser encaminhado à pagina de compra
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ADS-EIXO-1-MARCAE/assets/141197033/18055ef1-031d-42aa-941f-bf308107f1ea)
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ADS-EIXO-1-MARCAE/assets/141197033/268f0903-fde9-4be3-8510-69f45f0bb1c1)
+
+
+
+4.Ao clicar no link "Saiba mais sobre o cancelamento" deverá ser encaminhado à Política de Cancelamento
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ADS-EIXO-1-MARCAE/assets/141197033/61aef2e7-1681-4b9b-8486-1fcad5603a5a)
+
+
+
+5.Ao clicar no link "Saiba como editar participantes" deverá ser encaminhado à Política de Edição de Participantes
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ADS-EIXO-1-MARCAE/assets/141197033/f7b54f46-aeba-48a3-badd-881f66442c5c)
+
+
+6.Ao clicar no botão "Voltar", deverá retornar à página anterior
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ADS-EIXO-1-MARCAE/assets/141197033/e490f52e-a755-471a-83c9-fa19bbba59ce)
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ADS-EIXO-1-MARCAE/assets/141197033/5587de29-8df7-416e-9c6d-aeb9abffe802)
+
+
+
+
+
+
+|Caso de Teste    | CT-8 - tela de feedback |
 |:---|:---|
 | Requisitos Associados | RF-04 |
 | Objetivo do Teste | Permitir que o usuario adicione seu feedback.|
