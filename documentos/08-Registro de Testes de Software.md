@@ -167,15 +167,19 @@ Os resultados dos testes funcionais realizados na aplicação são descritos a s
 | Responsável pela elaborar do caso de teste | Riniel Rodrigo |
 
 5. Página de compras de ingressos e suas funcionalidades (Tablet).
+<br>
 ![mobile (1)](https://github.com/ICEI-PUC-Minas-PMV-ADS/ADS-EIXO-1-MARCAE/assets/80684745/8e51967e-aacc-4fe4-907f-abfaf2f0e863)
+<br>
 
-6. Página de compras de ingressos (celular).
+7. Página de compras de ingressos (celular).
+<br>
 ![mobile](https://github.com/ICEI-PUC-Minas-PMV-ADS/ADS-EIXO-1-MARCAE/assets/80684745/cffbd9a0-fc42-416a-a8fc-cd87cbc4798d)
+<br>
 
-7. Página de compras de ingressos (Desktop).
+9. Página de compras de ingressos (Desktop).
+<br>
 ![mobile (2)](https://github.com/ICEI-PUC-Minas-PMV-ADS/ADS-EIXO-1-MARCAE/assets/80684745/706b87b4-64bd-422c-9dc0-b3535463eebe)
-
-
+<br>
 
 
 
