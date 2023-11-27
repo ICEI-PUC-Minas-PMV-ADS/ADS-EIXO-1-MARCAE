@@ -47,7 +47,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
 
 |Caso de Teste    | CT-3 - Registre-se |
 |:---|:---|
-| Requisitos Associados | RF-02 |
+| Requisitos Associados | RF-01 |
 | Objetivo do Teste | Permitir que o usuario cadastre sua conta. |
 | Passos | 1. Na tela de login clique em inscreva-se, sera redirecionado a tela de registro.|
 | | 2. Preencha todos os campos obrigatorios e clique no botao "finalizar";|
