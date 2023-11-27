@@ -168,7 +168,6 @@ Os resultados dos testes funcionais realizados na aplicação são descritos a s
 
 
 1. Página de compras de ingressos e suas funcionalidades (Tablet).
-   
 (Aguarde o carregamentos dos gifs).
 
 ![mobile (1)](https://github.com/ICEI-PUC-Minas-PMV-ADS/ADS-EIXO-1-MARCAE/assets/80684745/8e51967e-aacc-4fe4-907f-abfaf2f0e863)
