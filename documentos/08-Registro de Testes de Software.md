@@ -195,6 +195,25 @@ Os resultados dos testes funcionais realizados na aplicação são descritos a s
 | Êxito |6. Ao clicar no botão "Voltar", deverá retornar à página anterior;|
 | Responsável pela elaborar do caso de teste | Guilherme Morato |
 
+|Caso de Teste    | CT-7 - tela de feedback |
+|:---|:---|
+| Requisitos Associados | RF-01 |
+| Objetivo do Teste | Permitir que o usuario adicione seu feedback.|
+| Passos | 1. na pagina de ingressos, na seção encerrados clique no botão "adicionar feedback";|
+|Passos | 2. comente o que achou do evento, e se preferir adicione foto e/ou vídeo do mesmo.
+| Critérios de êxito  |3. o arquivo anexado não deverá ultrapassar 2mb;|
+| Responsável pela elaborar do caso de teste | João Victor Oliveira|
+
+1.ingressos encerrados (adicionar feedback)
+![adicionar feedback](https://github.com/ICEI-PUC-Minas-PMV-ADS/ADS-EIXO-1-MARCAE/assets/144181666/385943e4-def6-44aa-91c2-22c02205569c)
+
+2. tela de feedback
+![tela de feedback](https://github.com/ICEI-PUC-Minas-PMV-ADS/ADS-EIXO-1-MARCAE/assets/144181666/e7cad7f3-688c-431a-a06d-5e5a15d2fda8)
+
+3.area de upload
+![Captura de tela 2023-11-26 225806](https://github.com/ICEI-PUC-Minas-PMV-ADS/ADS-EIXO-1-MARCAE/assets/144181666/4ae07ec9-4626-44a9-8435-1a67eaeb09c1)
+
+   
 
 
 
