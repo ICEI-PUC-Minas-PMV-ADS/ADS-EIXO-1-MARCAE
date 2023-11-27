@@ -85,3 +85,12 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
 | |6. Preencha os campos da seção "Envio do ingresso" referente a onde deseja receber o mesmo;|
 | |6. Clique no botão "Confirmar e pagar" para finalizar a compra|
 | Responsável pela elaborar do caso de teste | Riniel Rodrigo |
+
+|Caso de Teste    | CT-6 - Página inicial |
+|:---|:---|
+| Requisitos Associados | RF-04, RF-05 |
+| Objetivo do Teste | Permitir que o usuário visualize a página inicial, mesmo sem ter uma conta.|
+| Passos | 1. Na tela inicial, caso não tenha uma conta, clique em "Criar conta";|
+| |2. Na tela inicial, caso tenha uma conta, clique em "Login";|
+| Critérios de êxito  |3. Possibilidade de verificar os eventos destaques e filtrar por seus gostos;|
+| Responsável pela elaborar do caso de teste | Nicholas Deway |
