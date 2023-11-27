@@ -254,8 +254,6 @@ Os resultados dos testes funcionais realizados na aplicação são descritos a s
 2. tela de feedback
 ![tela de feedback](https://github.com/ICEI-PUC-Minas-PMV-ADS/ADS-EIXO-1-MARCAE/assets/144181666/e7cad7f3-688c-431a-a06d-5e5a15d2fda8)
 
-3.upload
-![Captura de tela 2023-11-26 225806](https://github.com/ICEI-PUC-Minas-PMV-ADS/ADS-EIXO-1-MARCAE/assets/144181666/d0933b3d-9661-4fa1-82f0-a0ac38bd8076)
 
    
 
