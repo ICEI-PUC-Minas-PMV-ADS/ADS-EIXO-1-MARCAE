@@ -94,3 +94,15 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
 | |2. Na tela inicial, caso tenha uma conta, clique em "Login";|
 | Critérios de êxito  |3. Possibilidade de verificar os eventos destaques e filtrar por seus gostos;|
 | Responsável pela elaborar do caso de teste | Nicholas Deway |
+
+|Caso de Teste    | CT-7 - Informações do evento |
+|:---|:---|
+| Requisitos Associados | RF-11 |
+| Objetivo do Teste | Permitir que o usuário visualize os detalhes do evento.|
+| Passos | 1. Viualize as informações na página de eventos clique no botão "Comprar ingressos";|
+| |2. Consiga acessar links contidos ao longo do texto;|
+| Critérios de êxito  |3. Ao clicar no botão "Comprar ingrssos" deverá ser encaminhado à pagina de compra;|
+| |4. Ao clicar no link "Saiba mais sobre o cancelamento" deverá ser encaminhado à Política de Cancelamento;|
+| |5.Ao clicar no link "Saiba como editar participantes" deverá ser encaminhado à Política de Edição de Participantes;|
+| |6. Ao clicar no botão "Voltar", deverá retornar à página anterior;|
+| Responsável pela elaborar do caso de teste | Guilherme Morato |
