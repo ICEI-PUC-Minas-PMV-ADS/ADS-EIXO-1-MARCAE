@@ -160,7 +160,7 @@
 
 |ID    | Descrição                | Prioridade |
 |-------|---------------------------------|----|
-| RF-01 | O site deve permitir que os artistas criem uma conta no site|Alta| 
+| RF-01 | O site deve permitir que os usuarios criem uma conta no site|Alta| 
 | RF-02 | O site deve permitir que os artistas insiram informações sobre sua arte, incluindo descrição, estilo, e outros detalhes relevantes|Média| 
 | RF-03 | O site deve permitir que os administradores visualizem, editem e excluam os eventos e oportunidades cadastrados|Média| 
 | RF-04 | O site deve permitir que os usuários adicionem reações aos eventos e oportunidades|Baixa| 
