@@ -245,7 +245,6 @@ Os resultados dos testes funcionais realizados na aplicação são descritos a s
 | Objetivo do Teste | Permitir que o usuario adicione seu feedback.|
 | Passos | 1. na pagina de ingressos, na seção encerrados clique no botão "adicionar feedback";|
 |Passos | 2. comente o que achou do evento, e se preferir adicione foto e/ou vídeo do mesmo.
-| Critérios de êxito  |3. o arquivo anexado não deverá ultrapassar 2mb;|
 | Responsável pela elaborar do caso de teste | João Victor Oliveira|
 
 1.ingressos encerrados (adicionar feedback)
