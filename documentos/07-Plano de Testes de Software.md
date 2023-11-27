@@ -106,3 +106,14 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
 | |5.Ao clicar no link "Saiba como editar participantes" deverá ser encaminhado à Política de Edição de Participantes;|
 | |6. Ao clicar no botão "Voltar", deverá retornar à página anterior;|
 | Responsável pela elaborar do caso de teste | Guilherme Morato |
+
+|Caso de Teste    | CT-8 - adicionar feedback |
+|:---|:---|
+| Requisitos Associados | RF-12 |
+| Objetivo do Teste | Permitir que o usuário adicione seu feedback.|
+| Passos | 1. na parte de ingressos encerrados clique em "adicionar feedback";|
+| |2. na caixa de texto escreva o que achou do evento; |
+| |3. se quiser, adicione fotos e/ou videos do evento; |
+| Critérios de êxito  |4. Ao clicar no botão "adicionar feedback" deverá ser encaminhado à pagina de feedback;|
+| |5. o tamanho máximo da mídia anexada deverá ser de 2mb;|
+| Responsável pela elaborar do caso de teste | João Victor Oliveira |
