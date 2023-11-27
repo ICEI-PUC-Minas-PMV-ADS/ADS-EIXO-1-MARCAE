@@ -197,7 +197,7 @@ Os resultados dos testes funcionais realizados na aplicação são descritos a s
 
 |Caso de Teste    | CT-7 - tela de feedback |
 |:---|:---|
-| Requisitos Associados | RF-01 |
+| Requisitos Associados | RF-04 |
 | Objetivo do Teste | Permitir que o usuario adicione seu feedback.|
 | Passos | 1. na pagina de ingressos, na seção encerrados clique no botão "adicionar feedback";|
 |Passos | 2. comente o que achou do evento, e se preferir adicione foto e/ou vídeo do mesmo.
