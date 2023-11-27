@@ -183,6 +183,17 @@ Os resultados dos testes funcionais realizados na aplicação são descritos a s
 ![mobile (2)](https://github.com/ICEI-PUC-Minas-PMV-ADS/ADS-EIXO-1-MARCAE/assets/80684745/706b87b4-64bd-422c-9dc0-b3535463eebe)
 <br>
 
+|Caso de Teste    | CT-7 - Informações do evento |
+|:---|:---|
+| Requisitos Associados | RF-11 |
+| Objetivo do Teste | Permitir que o usuário visualize os detalhes do evento.|
+| Passos | 1. Viualize as informações na página de eventos clique no botão "Comprar ingressos";|
+|Êxito |2. Consiga acessar links contidos ao longo do texto;|
+| Critérios de êxito  |3. Ao clicar no botão "Comprar ingrssos" deverá ser encaminhado à pagina de compra;|
+| Êxito |4. Ao clicar no link "Saiba mais sobre o cancelamento" deverá ser encaminhado à Política de Cancelamento;|
+| Êxito |5.Ao clicar no link "Saiba como editar participantes" deverá ser encaminhado à Política de Edição de Participantes;|
+| Êxito |6. Ao clicar no botão "Voltar", deverá retornar à página anterior;|
+| Responsável pela elaborar do caso de teste | Guilherme Morato |
 
 
 
