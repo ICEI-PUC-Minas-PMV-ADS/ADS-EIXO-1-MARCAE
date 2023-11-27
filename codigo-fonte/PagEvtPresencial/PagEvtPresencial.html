@@ -4,11 +4,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css"
-        integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N" crossorigin="anonymous">
-    <link rel="stylesheet" href="Menu.css">
-    <link rel="stylesheet" href="Footer.css">
+    <title>Marcaê | Cadastrar evento</title>
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous" 
+    />
+    <link rel="stylesheet" href="../Header.css">
+    <link rel="stylesheet" href="../Footer.css">
     <link rel="stylesheet" href="event.css">
 </head>
 
@@ -17,26 +19,27 @@
     <header>
         <div class="container-fluid">
             <div class="row row1 g-2 align-items-center justify-content-center">
-
                 <!-- Coluna 1 com os elementos da logo -->
                 <div class="col-lg-3 col-md-4 col-sm-6 col-6 d-flex MenuColunm MenuColunm1">
-                    <img id="logo" src="public/images/log.png" alt="logo">
+                    <a href="../index.html"><img id="logo" src="public/images/log.png" alt="logo" /></a>
 
                     <div class="linha1"></div>
-                </div> <!--  MenuColunm1 close  -->
+                </div>
+                <!--  MenuColunm1 close  -->
 
                 <!-- Coluna 2 com os elementos dos itens do menu -->
                 <div class="col-lg-4 col-md-4 col-sm-6 MenuColunm MenuColunm2">
-                    <nav class=" navbar navbar-expand ">
+                    <nav class="navbar navbar-expand">
                         <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
                             <div class="navbar-nav">
-                                <a class="nav-link" href="#">Seja um produtor</a>
-                                <a class="nav-link" href="#">Login</a>
-                                <a class="nav-link" href="#">Criar conta</a>
+                                <a class="nav-link" href="../PagCadastroEvento/form.html">Seja um produtor</a>
+                                <a class="nav-link" href="../PagLogin/PagLogin.html">Login</a>
+                                <a class="nav-link" href="../PagCadastro/PagCadastro.html">Criar conta</a>
                             </div>
                         </div>
                     </nav>
-                </div> <!--  MenuColunm2 close  -->
+                </div>
+                <!--  MenuColunm2 close  -->
 
                 <!-- Coluna 3 com os elementos da troca de local -->
                 <div class="col-lg-2 col-md-4 col-sm-6 MenuColunm MenuColunm3">
@@ -72,7 +75,7 @@
                         <form class="form-inline d-flex">
                             <div class="inputContainer">
                                 <input class="inp form-control mr-sm-2" type="search" placeholder="Pesquisar eventos..."
-                                    aria-label="Search">
+                                    aria-label="Search" />
                                 <svg id="lupaIcon" xmlns="http://www.w3.org/2000/svg" width="28" height="28"
                                     fill="currentColor" class="bi bi-search" viewBox="0 0 16 16">
                                     <path
@@ -81,7 +84,8 @@
                             </div>
                         </form>
                     </nav>
-                </div> <!-- MenuColunm4 close  -->
+                </div>
+                <!-- MenuColunm4 close  -->
 
                 <!-- Coluna 5 com os elementos do menu em dropdown (só em dispositivos mobile) -->
                 <div class="col-6 MenuColunm MenuColunm5">
@@ -95,15 +99,20 @@
                             </svg>
                         </button>
                         <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
-                            <li><a class="dropdown-item" href="#">Seja um produtor</a></li>
-                            <li><a class="dropdown-item" href="#">Login</a></li>
-                            <li><a class="dropdown-item" href="#">Criar conta</a></li>
+                            <li><a class="dropdown-item" href="../PagCadastroEvento/form.html">Seja um produtor</a></li>
+                            <li><a class="dropdown-item" href="../PagLogin/PagLogin.html">Login</a></li>
+                            <li><a class="dropdown-item" href="../PagCadastro/PagCadastro.html">Criar conta</a></li>
                         </ul>
                     </div>
-                </div> <!--  MenuColunm5 close  -->
-            </div> <!--  Row close  -->
-        </div> <!--Container close -->
+                </div>
+                <!--  MenuColunm5 close  -->
+            </div>
+            <!--  Row close  -->
+        </div>
+        <!--Container close -->
     </header>
+
+    <div class="linha2"></div>
 
     <section>
         <h1> Evento Presencial</h1>
@@ -130,7 +139,8 @@
                         <label for="formFileMultiple" class="custom-file-upload">
                             <img src="public/images/upload.png" alt="Ícone de upload">
                             <p>Escolha os vídeos e imagens para apresentação do Evento (até 2MB).</p>
-                            <input class="form-control form-control-lg" type="file" size="2000000" onchange="validarArquivos()" id="formFileMultiple" multiple>
+                            <input class="form-control form-control-lg" type="file" size="2000000"
+                                onchange="validarArquivos()" id="formFileMultiple" multiple>
                         </label>
                         <br>
                     </div>
@@ -183,7 +193,8 @@
                                         <option value="goiaba">Público</option>
                                     </select>
                                 </th>
-                                <th><button type="button" id="buttonPlus" class="btn" onclick="adicionarLinha()">+</button></th>
+                                <th><button type="button" id="buttonPlus" class="btn"
+                                        onclick="adicionarLinha()">+</button></th>
                             </tr>
                         </thead>
                     </table>
@@ -191,10 +202,12 @@
             </fieldset>
             <br>
             <div class="text-center">
-                <button class="btn" id="submitEvent" type="button" onclick="submitForms()">CADASTRAR EVENTO</button>
+                <button class="btn" id="submitEvent" type="button" onclick="submitForms()">CADASTRAR
+                    EVENTO</button>
             </div>
         </form>
     </section>
+
 
     <footer>
         <div class="container-fluid containerFooter">
@@ -287,6 +300,7 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
         integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous">
     </script>
+
 </body>
 
 </html>
