@@ -1,0 +1,82 @@
+.form-control {
+    display: block;
+    width: 100%;
+}
+
+#eventDate {
+    width: 25%;
+}
+
+.form-control-lg {
+    height: 50px;
+}
+
+h1 {
+    color: #FAB638;
+}
+
+p {
+    color: #5176A2;
+    font-weight: bolder;
+}
+
+label {
+    color: #FAB638;
+    font-weight: bolder;
+}
+
+#buttonPlus {
+    background-color: lightgrey;
+    min-width: 50px; 
+    min-height: 30px;
+}
+
+#buttonRemove {
+    background-color: lightcoral;
+    min-width: 50px; 
+    min-height: 30px;
+}
+
+#submitEvent {
+    background-color: #FAB638;
+    color: white;
+    border-radius: 90px;
+}
+
+fieldset {
+    border: 1px solid black; 
+    border-radius: 5px; 
+    padding: 15px; 
+    margin-bottom: 20px; 
+}
+
+legend{
+    display: block;
+    width: auto;
+}
+
+.custom-file-upload {
+    display: inline-block;
+    padding: 10px 15px;
+    font-size: 16px;
+    cursor: pointer;
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.custom-file-upload img {
+    vertical-align: middle; 
+    width: 100px; 
+    height: 100px; 
+    margin-right: 10px; 
+}
+
+.required-label::after {
+    content: " *";
+    color: red;
+}
