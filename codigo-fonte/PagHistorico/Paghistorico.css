@@ -1,0 +1,169 @@
+.contRowHist{
+    margin-top: 75px;
+    margin-left: 300px;
+}
+
+.rowHist h1{
+    color:#FAB638;
+    font-size: 48px;
+    font-weight: 700;
+}
+
+.shc{
+    margin-top:10px;
+}
+
+.atvEncerrado h1{
+    color:#5176A2;
+    font-size: 24px;
+    font-weight: 600;
+}
+.imagem{
+    margin-right: auto;
+    margin-bottom: 50px;
+    width: 100%; 
+    border-radius: 26px;
+}
+
+.conteudo{
+    margin-top:50px;
+    margin-bottom:100px;
+}
+
+.btnX{
+    margin-right:50px;
+    background-color: #FAB638;
+    border-color: #faf9f8;
+    align-items: center;
+}
+
+.texto p{
+    font-size: 16px;
+    color: #2A2824;
+    font-family: Lato;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px;
+    
+}
+
+.tituloHist{
+    color: #5176A2;
+    font-family: Roboto Slab;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700px;
+    line-height: 25px;
+}
+
+#enc{
+    color: #5176A2;
+}
+
+a{
+    color: #5176A2;
+    text-decoration: initial;
+}
+
+#enc:hover, a:hover{
+    text-decoration: none;
+    color:#fab63892;
+
+}
+
+i{color: #FAB638}
+
+#custom-search-input button {
+    border: 0;
+    background: none;
+    position: relative; 
+}
+
+input[type=search] {
+    border-radius: 0px
+}
+
+.btn-primary {
+    margin-left: 30%;
+    margin-top: 10%;
+    margin-bottom: 30%;
+    color: #5176A2;
+    text-align: center;
+    font-family: DM Sans;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 16px;
+    display: flex;
+    width: 176px;
+    height: 30px;
+    padding: 12px 16px;
+    justify-content: center;
+    align-items: center;
+    gap: 12px;
+    border-radius: 90px;
+    border: 1px solid #FAB638;
+    background: #FFF;
+}
+
+.btn-secundary{
+    display: flex;
+    width: 322px;
+    padding: 12px 16px;
+    justify-content: center;
+    align-items: center;
+    gap: 12px;
+    border-radius: 90px;
+    border: 1px solid #777E90;
+    background: #FFF;
+    padding-left: 16px;
+    padding-right: 16px; 
+    padding-top: 12px;
+    padding-bottom: 12px;
+    display: inline-flex;
+    text-align: center;
+    color: #777E90;
+    text-align: center;
+    font-family: DM Sans;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 16px;
+}
+
+/* Estilos para o modal */
+.body {
+    font-family: Arial, sans-serif;
+}
+
+.modal {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(255, 255, 255, 0.5);
+    justify-content: center;
+    align-items: center;
+}
+
+.modal-content {
+    background-color: rgb(216, 230, 224);
+    border-color: #5176A2;
+    margin-left: 30%;
+    margin-right: 30%;
+    padding: 20px;
+    border-radius: 5px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    font-family: DM Sans;
+    font-size: 18px;
+    font-style: normal;
+}
+
+.header2{
+    margin-top:10px;
+}
