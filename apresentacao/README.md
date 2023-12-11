@@ -1,6 +1,6 @@
 # Apresentação do Projeto
 
-Apresentação do vídeo enviada pelo Canvas. apresentacao/Projeto Marcaê.mp4
+Apresentação do vídeo enviada pelo Canvas.
 
 ## Hospedagem
 
